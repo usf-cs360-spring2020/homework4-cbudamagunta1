@@ -1,0 +1,2543 @@
+Call Type,Incident Number,Call Final Disposition,Neighborhooods - Analysis Boundaries
+Traffic Collision,16,Other,Inner Richmond
+Medical Incident,7,SFPD,Inner Sunset
+Alarms,5,Patient Declined Transport,Pacific Heights
+Traffic Collision,2,Code 3 Transport,Presidio Heights
+Medical Incident,132,Unable to Locate,Hayes Valley
+Outside Fire,40,Fire,Excelsior
+Medical Incident,229,Patient Declined Transport,Mission Bay
+Traffic Collision,15,Fire,Bernal Heights
+Citizen Assist / Service Call,2,Cancelled,Mission
+Citizen Assist / Service Call,8,Code 2 Transport,Lone Mountain/USF
+Elevator / Escalator Rescue,3,Fire,Noe Valley
+Traffic Collision,19,SFPD,Oceanview/Merced/Ingleside
+Gas Leak (Natural and LP Gases),3,No Merit,Potrero Hill
+Medical Incident,1,CHP,Potrero Hill
+Structure Fire,5,Other,Lone Mountain/USF
+Fuel Spill,17,Fire,Mission
+Outside Fire,2,No Merit,Nob Hill
+Elevator / Escalator Rescue,1,Cancelled,Hayes Valley
+Structure Fire,10,Other,South of Market
+Electrical Hazard,3,No Merit,Tenderloin
+Citizen Assist / Service Call,1,Cancelled,Portola
+Elevator / Escalator Rescue,2,Cancelled,Japantown
+Fuel Spill,9,Fire,West of Twin Peaks
+Elevator / Escalator Rescue,44,Fire,Bayview Hunters Point
+Traffic Collision,5,CHP,Treasure Island
+Traffic Collision,2,Gone on Arrival,Oceanview/Merced/Ingleside
+Medical Incident,204,Cancelled,Sunset/Parkside
+Traffic Collision,10,Fire,Golden Gate Park
+Odor (Strange / Unknown),2,No Merit,Tenderloin
+Medical Incident,376,Fire,Tenderloin
+Medical Incident,5,Gone on Arrival,Inner Sunset
+Structure Fire,12,No Merit,North Beach
+Other,3,Medical Examiner,Russian Hill
+Medical Incident,28,Unable to Locate,Japantown
+Citizen Assist / Service Call,1,Cancelled,West of Twin Peaks
+Fuel Spill,3,Fire,Portola
+Other,3,Patient Declined Transport,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,1,No Merit,Visitacion Valley
+Citizen Assist / Service Call,35,Code 2 Transport,South of Market
+Alarms,4,Code 2 Transport,Western Addition
+Traffic Collision,10,Medical Examiner,Outer Richmond
+Traffic Collision,1,CHP,Bayview Hunters Point
+Elevator / Escalator Rescue,2,Patient Declined Transport,South of Market
+Structure Fire,44,Fire,Presidio
+Smoke Investigation (Outside),70,Fire,Mission
+Explosion,4,Fire,Twin Peaks
+Other,1,SFPD,Hayes Valley
+Outside Fire,1,No Merit,Sunset/Parkside
+Traffic Collision,64,Cancelled,South of Market
+Traffic Collision,13,Other,Outer Richmond
+Other,81,Fire,North Beach
+Other,8,No Merit,Presidio
+Assist Police,1,Fire,Tenderloin
+Traffic Collision,164,Code 2 Transport,West of Twin Peaks
+Traffic Collision,7,Other,Castro/Upper Market
+Other,24,Fire,Glen Park
+Traffic Collision,90,Code 2 Transport,Portola
+Traffic Collision,27,Code 3 Transport,Marina
+Traffic Collision,18,Patient Declined Transport,Japantown
+Structure Fire,22,Code 2 Transport,Tenderloin
+Traffic Collision,24,Fire,Financial District/South Beach
+Traffic Collision,98,Patient Declined Transport,Hayes Valley
+Alarms,12,No Merit,Financial District/South Beach
+Smoke Investigation (Outside),9,Fire,Portola
+Medical Incident,446,Code 2 Transport,Presidio
+Medical Incident,178,Cancelled,Nob Hill
+Traffic Collision,5,Cancelled,Lone Mountain/USF
+Traffic Collision,638,Code 2 Transport,Mission
+Vehicle Fire,5,Fire,Inner Sunset
+Citizen Assist / Service Call,3,Other,Tenderloin
+Traffic Collision,6,Medical Examiner,Inner Richmond
+Medical Incident,24,Fire,Haight Ashbury
+Gas Leak (Natural and LP Gases),9,Fire,Twin Peaks
+Smoke Investigation (Outside),26,Fire,West of Twin Peaks
+Odor (Strange / Unknown),2,No Merit,Haight Ashbury
+Structure Fire,71,Fire,Seacliff
+Traffic Collision,19,Other,Lakeshore
+Traffic Collision,2,Gone on Arrival,Bernal Heights
+Structure Fire,6,No Merit,Hayes Valley
+Medical Incident,111,Cancelled,Marina
+Structure Fire,29,Fire,McLaren Park
+Medical Incident,2,CHP,Visitacion Valley
+Gas Leak (Natural and LP Gases),3,No Merit,Visitacion Valley
+Other,1,Unable to Locate,Haight Ashbury
+Medical Incident,6,Other,Twin Peaks
+Medical Incident,964,Code 3 Transport,South of Market
+Medical Incident,214,SFPD,Tenderloin
+Traffic Collision,2,Code 2 Transport,Lincoln Park
+Traffic Collision,14,SFPD,Golden Gate Park
+Other,7,Patient Declined Transport,Bernal Heights
+Watercraft in Distress,1,Fire,North Beach
+Medical Incident,382,Patient Declined Transport,Western Addition
+Medical Incident,2677,Code 2 Transport,Pacific Heights
+Traffic Collision,3,Gone on Arrival,Golden Gate Park
+Medical Incident,11,Unable to Locate,Glen Park
+Smoke Investigation (Outside),12,Fire,Lincoln Park
+Medical Incident,295,Gone on Arrival,Tenderloin
+Medical Incident,159,Code 3 Transport,Lone Mountain/USF
+Traffic Collision,35,Code 3 Transport,Nob Hill
+Citizen Assist / Service Call,2,No Merit,Potrero Hill
+Traffic Collision,15,Fire,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,2,No Merit,Chinatown
+Gas Leak (Natural and LP Gases),3,Cancelled,Mission
+Vehicle Fire,7,Fire,Haight Ashbury
+Traffic Collision,15,SFPD,Bernal Heights
+Medical Incident,68,Unable to Locate,North Beach
+Traffic Collision,42,Against Medical Advice,Outer Mission
+Elevator / Escalator Rescue,1,No Merit,Outer Richmond
+Medical Incident,46,Fire,Inner Sunset
+Citizen Assist / Service Call,7,Patient Declined Transport,Excelsior
+Medical Incident,124,Code 2 Transport,McLaren Park
+Other,27,Fire,Japantown
+Outside Fire,6,Unable to Locate,Castro/Upper Market
+Citizen Assist / Service Call,16,Fire,Twin Peaks
+Other,18,Cancelled,Bayview Hunters Point
+Medical Incident,12,SFPD,Haight Ashbury
+Traffic Collision,6,Patient Declined Transport,Glen Park
+Outside Fire,2,Unable to Locate,Outer Richmond
+Medical Incident,159,Code 2 Transport,Seacliff
+Medical Incident,63,Against Medical Advice,Excelsior
+Alarms,3,Other,Bayview Hunters Point
+Medical Incident,7,No Merit,None
+Other,1,Unable to Locate,Tenderloin
+Medical Incident,33,Cancelled,Presidio Heights
+Traffic Collision,31,Patient Declined Transport,North Beach
+Electrical Hazard,1,Fire,None
+Other,10,Cancelled,Treasure Island
+Traffic Collision,15,SFPD,Financial District/South Beach
+Vehicle Fire,57,Fire,Tenderloin
+Structure Fire,2,Cancelled,Lakeshore
+Other,1,SFPD,Glen Park
+Medical Incident,42,Medical Examiner,Twin Peaks
+Traffic Collision,13,Gone on Arrival,Financial District/South Beach
+Citizen Assist / Service Call,1,Other,Inner Sunset
+Other,9,Code 2 Transport,None
+HazMat,3,Code 2 Transport,Mission
+Structure Fire,708,Fire,Pacific Heights
+Citizen Assist / Service Call,3,Against Medical Advice,Western Addition
+Other,2,Cancelled,Noe Valley
+Traffic Collision,5,Against Medical Advice,Russian Hill
+Medical Incident,8,Gone on Arrival,Haight Ashbury
+Traffic Collision,6,Unable to Locate,Western Addition
+Other,1,Patient Declined Transport,Financial District/South Beach
+Other,1,SFPD,North Beach
+HazMat,11,Fire,Financial District/South Beach
+Traffic Collision,19,Code 3 Transport,Sunset/Parkside
+Other,83,Fire,Hayes Valley
+Outside Fire,12,No Merit,Bayview Hunters Point
+Citizen Assist / Service Call,1,Other,Hayes Valley
+Alarms,64,Fire,Lincoln Park
+Other,8,Code 2 Transport,Pacific Heights
+Gas Leak (Natural and LP Gases),28,Fire,Russian Hill
+Structure Fire,2,Fire,None
+Other,2,Gone on Arrival,Tenderloin
+Structure Fire,11,Patient Declined Transport,Mission
+Medical Incident,268,Code 3 Transport,Visitacion Valley
+Medical Incident,79,Against Medical Advice,Inner Richmond
+Other,88,Fire,Inner Sunset
+Medical Incident,7,CHP,South of Market
+Traffic Collision,25,SFPD,Western Addition
+Gas Leak (Natural and LP Gases),3,No Merit,South of Market
+Fuel Spill,4,Against Medical Advice,South of Market
+Structure Fire,19,Code 3 Transport,Outer Mission
+Structure Fire,6,Code 2 Transport,Hayes Valley
+Water Rescue,65,Fire,Russian Hill
+Outside Fire,1,No Merit,Treasure Island
+Medical Incident,80,Patient Declined Transport,Golden Gate Park
+Smoke Investigation (Outside),2,Unable to Locate,Mission
+Traffic Collision,77,Patient Declined Transport,Tenderloin
+Citizen Assist / Service Call,8,Code 2 Transport,Chinatown
+Smoke Investigation (Outside),1,Unable to Locate,West of Twin Peaks
+Gas Leak (Natural and LP Gases),4,No Merit,Lone Mountain/USF
+Citizen Assist / Service Call,6,Patient Declined Transport,Outer Richmond
+High Angle Rescue,9,Code 2 Transport,Seacliff
+Traffic Collision,9,Gone on Arrival,Western Addition
+Structure Fire,11,Code 2 Transport,Japantown
+Other,8,Cancelled,Marina
+Outside Fire,1,SFPD,Castro/Upper Market
+Elevator / Escalator Rescue,6,Patient Declined Transport,Chinatown
+Vehicle Fire,7,Fire,North Beach
+Medical Incident,33,Unable to Locate,Haight Ashbury
+Alarms,3,Cancelled,Twin Peaks
+Administrative,1,Other,Mission Bay
+Medical Incident,251,No Merit,Pacific Heights
+Outside Fire,1,No Merit,Noe Valley
+Alarms,3,Other,Marina
+Smoke Investigation (Outside),2,Unable to Locate,Portola
+Odor (Strange / Unknown),5,Fire,Pacific Heights
+HazMat,6,Fire,Western Addition
+Other,8,Code 3 Transport,South of Market
+Other,9,SFPD,Tenderloin
+Elevator / Escalator Rescue,108,Fire,Nob Hill
+Electrical Hazard,28,Fire,Pacific Heights
+Medical Incident,285,Patient Declined Transport,Bernal Heights
+Citizen Assist / Service Call,6,Code 2 Transport,Potrero Hill
+Traffic Collision,9,Fire,Mission Bay
+Traffic Collision,21,Unable to Locate,Financial District/South Beach
+Traffic Collision,6,Cancelled,Potrero Hill
+Other,1,Medical Examiner,Twin Peaks
+Medical Incident,6,SFPD,Glen Park
+Medical Incident,60,Code 2 Transport,None
+Traffic Collision,19,Patient Declined Transport,Haight Ashbury
+Water Rescue,9,Patient Declined Transport,Lakeshore
+Gas Leak (Natural and LP Gases),26,Fire,Outer Mission
+Medical Incident,1177,Patient Declined Transport,Financial District/South Beach
+Odor (Strange / Unknown),2,No Merit,Hayes Valley
+Medical Incident,33,SFPD,North Beach
+Traffic Collision,16,Unable to Locate,Bernal Heights
+Medical Incident,154,Against Medical Advice,Outer Richmond
+Outside Fire,38,Fire,Lakeshore
+Medical Incident,20,No Merit,McLaren Park
+Electrical Hazard,4,Fire,Seacliff
+Medical Incident,65,Fire,Hayes Valley
+Medical Incident,42,Cancelled,Noe Valley
+Electrical Hazard,1,Fire,McLaren Park
+Medical Incident,141,Against Medical Advice,Castro/Upper Market
+Traffic Collision,9,Cancelled,Chinatown
+Medical Incident,19,No Merit,Seacliff
+Electrical Hazard,1,No Merit,Hayes Valley
+Elevator / Escalator Rescue,5,Fire,Sunset/Parkside
+Alarms,6,Other,Presidio Heights
+Elevator / Escalator Rescue,4,Cancelled,Tenderloin
+Citizen Assist / Service Call,7,Patient Declined Transport,Inner Richmond
+Medical Incident,35,Gone on Arrival,North Beach
+Outside Fire,1,SFPD,Inner Richmond
+Medical Incident,339,Cancelled,Bayview Hunters Point
+Medical Incident,48,Fire,Japantown
+Water Rescue,38,Medical Examiner,North Beach
+Medical Incident,937,Unable to Locate,Tenderloin
+Traffic Collision,7,Unable to Locate,Golden Gate Park
+Explosion,4,Fire,Outer Mission
+Other,2,Cancelled,Presidio Heights
+Medical Incident,7,Gone on Arrival,Glen Park
+Medical Incident,55,Cancelled,Treasure Island
+HazMat,1,No Merit,Mission
+Other,13,Cancelled,Sunset/Parkside
+Traffic Collision,2,SFPD,Mission Bay
+Other,189,Fire,Tenderloin
+Smoke Investigation (Outside),1,No Merit,Golden Gate Park
+Medical Incident,312,Code 3 Transport,Chinatown
+Traffic Collision,34,Patient Declined Transport,Inner Sunset
+Outside Fire,2,Code 2 Transport,Nob Hill
+Water Rescue,9,Patient Declined Transport,Outer Richmond
+Medical Incident,120,Against Medical Advice,Lakeshore
+Outside Fire,79,Fire,Outer Richmond
+Elevator / Escalator Rescue,3,Fire,Presidio Heights
+Medical Incident,242,Code 3 Transport,Potrero Hill
+Medical Incident,78,Medical Examiner,Russian Hill
+Outside Fire,148,Fire,Castro/Upper Market
+Fuel Spill,1,No Merit,Financial District/South Beach
+Medical Incident,174,Patient Declined Transport,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,6,No Merit,Lone Mountain/USF
+Vehicle Fire,38,Fire,Hayes Valley
+Gas Leak (Natural and LP Gases),5,Code 2 Transport,Chinatown
+HazMat,3,Fire,Mission Bay
+Traffic Collision,24,Code 3 Transport,Treasure Island
+Other,1,Unable to Locate,Hayes Valley
+Vehicle Fire,3,Cancelled,Bayview Hunters Point
+Citizen Assist / Service Call,2,Code 2 Transport,Visitacion Valley
+Structure Fire,10,No Merit,Haight Ashbury
+Traffic Collision,2,Medical Examiner,Excelsior
+Medical Incident,14,Other,Outer Mission
+Traffic Collision,17,Fire,Western Addition
+Citizen Assist / Service Call,9,No Merit,South of Market
+Other,3,SFPD,Inner Sunset
+Alarms,3,No Merit,Western Addition
+Smoke Investigation (Outside),2,No Merit,Bernal Heights
+Outside Fire,2,Other,Financial District/South Beach
+Traffic Collision,5,Gone on Arrival,Mission Bay
+Outside Fire,3,Duplicate,Treasure Island
+Citizen Assist / Service Call,63,Fire,Russian Hill
+Traffic Collision,86,Code 3 Transport,Bayview Hunters Point
+Odor (Strange / Unknown),4,Code 2 Transport,Tenderloin
+Vehicle Fire,4,Cancelled,Treasure Island
+Smoke Investigation (Outside),5,No Merit,Financial District/South Beach
+Elevator / Escalator Rescue,30,Fire,Marina
+Traffic Collision,2,No Merit,Portola
+Alarms,121,Fire,Portola
+Medical Incident,6,SFPD,Japantown
+Other,27,Fire,Haight Ashbury
+Outside Fire,4,Code 2 Transport,Sunset/Parkside
+Outside Fire,40,Fire,Inner Richmond
+Alarms,832,Fire,West of Twin Peaks
+Other,6,Cancelled,Nob Hill
+Other,29,Code 2 Transport,Presidio
+Outside Fire,7,Other,Bernal Heights
+Traffic Collision,5,Cancelled,Visitacion Valley
+Traffic Collision,13,Other,Excelsior
+Medical Incident,39,Medical Examiner,Outer Mission
+Traffic Collision,29,No Merit,West of Twin Peaks
+Medical Incident,20,Gone on Arrival,Hayes Valley
+Traffic Collision,85,No Merit,Mission
+Medical Incident,21,No Merit,Presidio
+Medical Incident,12,Other,Russian Hill
+Medical Incident,16,Gone on Arrival,Japantown
+Medical Incident,43,Unable to Locate,Inner Sunset
+Alarms,2412,Fire,Mission
+Citizen Assist / Service Call,13,Patient Declined Transport,Lakeshore
+Electrical Hazard,5,Fire,Presidio
+Alarms,4,Code 3 Transport,Lakeshore
+Medical Incident,55,SFPD,Hayes Valley
+Mutual Aid / Assist Outside Agency,11,Other,Mission
+Medical Incident,52,Fire,North Beach
+Structure Fire,6,No Merit,Tenderloin
+Citizen Assist / Service Call,38,Fire,Outer Mission
+Traffic Collision,9,Unable to Locate,Oceanview/Merced/Ingleside
+Electrical Hazard,1,Cancelled,Outer Richmond
+Electrical Hazard,1,Other,South of Market
+Alarms,5,Code 2 Transport,Financial District/South Beach
+Vehicle Fire,2,No Merit,Pacific Heights
+"Extrication / Entrapped (Machinery, Vehicle)",2,Cancelled,Oceanview/Merced/Ingleside
+Medical Incident,15,Fire,Glen Park
+Medical Incident,83,Against Medical Advice,Bernal Heights
+Water Rescue,12,No Merit,Presidio
+Fuel Spill,1,Fire,Noe Valley
+Traffic Collision,9,Unable to Locate,Outer Richmond
+Medical Incident,27,SFPD,Outer Mission
+Medical Incident,25,Medical Examiner,Japantown
+Alarms,8,Code 2 Transport,Lakeshore
+Water Rescue,82,Fire,North Beach
+Gas Leak (Natural and LP Gases),11,Fire,Glen Park
+Elevator / Escalator Rescue,43,Fire,Mission
+Traffic Collision,8,Unable to Locate,Castro/Upper Market
+Other,8,Other,Inner Sunset
+Structure Fire,10,Against Medical Advice,West of Twin Peaks
+Citizen Assist / Service Call,1,Cancelled,Noe Valley
+Citizen Assist / Service Call,2,Against Medical Advice,Castro/Upper Market
+Alarms,6,Cancelled,Inner Sunset
+Gas Leak (Natural and LP Gases),22,Fire,North Beach
+Citizen Assist / Service Call,2,Patient Declined Transport,Financial District/South Beach
+Citizen Assist / Service Call,71,Fire,Hayes Valley
+Structure Fire,11,SFPD,Visitacion Valley
+Traffic Collision,67,Against Medical Advice,Tenderloin
+Traffic Collision,8,Other,Mission Bay
+Structure Fire,281,Fire,Chinatown
+Medical Incident,54,Against Medical Advice,Golden Gate Park
+Other,30,Fire,Twin Peaks
+Vehicle Fire,3,Code 2 Transport,Visitacion Valley
+Citizen Assist / Service Call,4,Cancelled,Bayview Hunters Point
+Citizen Assist / Service Call,38,Fire,Japantown
+Elevator / Escalator Rescue,1,Fire,Portola
+HazMat,2,Other,Western Addition
+Vehicle Fire,2,No Merit,South of Market
+Alarms,1278,Fire,Marina
+Fuel Spill,11,Fire,Treasure Island
+Medical Incident,164,Patient Declined Transport,Inner Richmond
+Traffic Collision,10,No Merit,Marina
+Fuel Spill,49,Fire,Bayview Hunters Point
+Medical Incident,6,Gone on Arrival,Outer Mission
+Elevator / Escalator Rescue,5,Fire,West of Twin Peaks
+Explosion,5,Fire,Glen Park
+Medical Incident,92,Medical Examiner,Hayes Valley
+Vehicle Fire,14,Fire,Russian Hill
+Structure Fire,417,Fire,Potrero Hill
+Structure Fire,32,Patient Declined Transport,Nob Hill
+Citizen Assist / Service Call,2,Unable to Locate,Tenderloin
+Smoke Investigation (Outside),1,No Merit,Lakeshore
+Outside Fire,1,Unable to Locate,Western Addition
+Traffic Collision,6,CHP,Portola
+Medical Incident,17,SFPD,Russian Hill
+Traffic Collision,2,Unable to Locate,Inner Richmond
+Traffic Collision,136,Code 2 Transport,Treasure Island
+Citizen Assist / Service Call,2,Code 3 Transport,Visitacion Valley
+Elevator / Escalator Rescue,4,No Merit,Western Addition
+Medical Incident,44,Other,Hayes Valley
+Traffic Collision,5,Gone on Arrival,Excelsior
+Medical Incident,9,Duplicate,South of Market
+Citizen Assist / Service Call,2,Patient Declined Transport,Golden Gate Park
+Other,1,No Merit,Chinatown
+Traffic Collision,442,Code 2 Transport,Bayview Hunters Point
+Other,12,Patient Declined Transport,Excelsior
+Citizen Assist / Service Call,6,Against Medical Advice,Inner Richmond
+HazMat,3,Fire,Excelsior
+Smoke Investigation (Outside),13,Fire,Noe Valley
+Medical Incident,464,Patient Declined Transport,Castro/Upper Market
+Fuel Spill,1,No Merit,Lakeshore
+Outside Fire,41,Fire,Oceanview/Merced/Ingleside
+Smoke Investigation (Outside),74,Fire,Bayview Hunters Point
+Medical Incident,2651,Code 2 Transport,Chinatown
+Medical Incident,267,Patient Declined Transport,Outer Richmond
+Traffic Collision,52,Code 2 Transport,Noe Valley
+Medical Incident,500,Against Medical Advice,Financial District/South Beach
+Smoke Investigation (Outside),1,Unable to Locate,Sunset/Parkside
+Vehicle Fire,14,Fire,Outer Mission
+Traffic Collision,2,Cancelled,None
+Medical Incident,15,Other,Japantown
+Smoke Investigation (Outside),8,Fire,Treasure Island
+Medical Incident,14,Gone on Arrival,Russian Hill
+Other,2,Medical Examiner,Inner Sunset
+Medical Incident,2240,Code 2 Transport,Potrero Hill
+Citizen Assist / Service Call,4,Patient Declined Transport,Bernal Heights
+Traffic Collision,6,Against Medical Advice,Haight Ashbury
+Citizen Assist / Service Call,4,No Merit,Pacific Heights
+Alarms,479,Fire,Presidio Heights
+Water Rescue,12,Medical Examiner,Russian Hill
+Vehicle Fire,2,Other,Hayes Valley
+Alarms,787,Fire,Sunset/Parkside
+Medical Incident,86,Medical Examiner,North Beach
+Traffic Collision,17,No Merit,Sunset/Parkside
+Outside Fire,3,Cancelled,South of Market
+Alarms,7,Cancelled,Tenderloin
+Structure Fire,10,Patient Declined Transport,Presidio Heights
+Gas Leak (Natural and LP Gases),7,Fire,Japantown
+Medical Incident,30,Medical Examiner,Glen Park
+Other,3,Other,Tenderloin
+Structure Fire,214,Fire,Visitacion Valley
+Medical Incident,75,Against Medical Advice,Oceanview/Merced/Ingleside
+Gas Leak (Natural and LP Gases),62,Fire,Hayes Valley
+Citizen Assist / Service Call,54,Fire,North Beach
+Medical Incident,5,Code 3 Transport,None
+Outside Fire,5,Unable to Locate,Mission Bay
+Industrial Accidents,6,Code 2 Transport,Tenderloin
+Outside Fire,595,Fire,Financial District/South Beach
+Medical Incident,296,Patient Declined Transport,Lakeshore
+Citizen Assist / Service Call,1,Unable to Locate,Inner Sunset
+Electrical Hazard,1,No Merit,Outer Mission
+Water Rescue,13,Fire,Hayes Valley
+Traffic Collision,9,Against Medical Advice,Inner Sunset
+Citizen Assist / Service Call,43,Fire,Glen Park
+Water Rescue,15,Patient Declined Transport,Financial District/South Beach
+Traffic Collision,9,Other,Western Addition
+Medical Incident,26,Fire,Outer Mission
+Traffic Collision,5,Patient Declined Transport,Twin Peaks
+Traffic Collision,2,Unable to Locate,Lakeshore
+Traffic Collision,29,Fire,Excelsior
+Gas Leak (Natural and LP Gases),1,No Merit,Pacific Heights
+Outside Fire,162,Fire,Bernal Heights
+Alarms,9,Other,West of Twin Peaks
+Other,1,Cancelled,Portola
+Vehicle Fire,3,Against Medical Advice,Bernal Heights
+Alarms,4,Code 2 Transport,Outer Richmond
+Alarms,1326,Fire,Nob Hill
+Other,7,Cancelled,West of Twin Peaks
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Haight Ashbury
+Elevator / Escalator Rescue,3,No Merit,Mission Bay
+Structure Fire,4,Cancelled,Western Addition
+Medical Incident,2,Unable to Locate,Twin Peaks
+Odor (Strange / Unknown),1,Fire,Lone Mountain/USF
+Medical Incident,199,No Merit,Lone Mountain/USF
+Traffic Collision,20,No Merit,Nob Hill
+Other,47,Code 2 Transport,South of Market
+Citizen Assist / Service Call,8,Against Medical Advice,Lakeshore
+Alarms,3,Cancelled,Haight Ashbury
+Electrical Hazard,25,Fire,Lone Mountain/USF
+Medical Incident,2192,No Merit,South of Market
+Medical Incident,12,Other,Glen Park
+Outside Fire,101,Fire,Golden Gate Park
+Other,4,Medical Examiner,Tenderloin
+Odor (Strange / Unknown),8,Fire,South of Market
+Electrical Hazard,24,Fire,South of Market
+Other,33,Cancelled,Mission
+Citizen Assist / Service Call,2,Other,Outer Mission
+Medical Incident,1606,Code 2 Transport,Visitacion Valley
+Elevator / Escalator Rescue,1,Fire,Lincoln Park
+Smoke Investigation (Outside),1,No Merit,Castro/Upper Market
+Medical Incident,40,Other,North Beach
+Electrical Hazard,5,Patient Declined Transport,Bayview Hunters Point
+Structure Fire,34,Code 2 Transport,Outer Mission
+Smoke Investigation (Outside),1,No Merit,Outer Richmond
+Alarms,20,Other,Mission
+Odor (Strange / Unknown),5,Patient Declined Transport,Bayview Hunters Point
+Medical Incident,45,Fire,Russian Hill
+Water Rescue,9,Patient Declined Transport,Golden Gate Park
+Smoke Investigation (Outside),2,Unable to Locate,Noe Valley
+Fuel Spill,1,Other,Mission
+Medical Incident,1,Gone on Arrival,Twin Peaks
+Traffic Collision,6,Medical Examiner,Financial District/South Beach
+Structure Fire,443,Fire,Lone Mountain/USF
+"Extrication / Entrapped (Machinery, Vehicle)",7,Code 2 Transport,Japantown
+Other,22,Fire,Outer Mission
+Traffic Collision,40,Other,Bernal Heights
+Outside Fire,4,Cancelled,Visitacion Valley
+Outside Fire,1,No Merit,West of Twin Peaks
+Alarms,3,No Merit,Inner Richmond
+Structure Fire,27,Cancelled,Financial District/South Beach
+Traffic Collision,198,Code 2 Transport,Sunset/Parkside
+Traffic Collision,9,Fire,Inner Richmond
+Medical Incident,53,Medical Examiner,Haight Ashbury
+Structure Fire,13,Patient Declined Transport,Bayview Hunters Point
+Medical Incident,8,Code 3 Transport,McLaren Park
+Outside Fire,10,No Merit,Mission
+Smoke Investigation (Outside),21,Fire,Sunset/Parkside
+Fuel Spill,2,Fire,Nob Hill
+Medical Incident,31,Code 3 Transport,Seacliff
+Vehicle Fire,2,No Merit,Potrero Hill
+Smoke Investigation (Outside),2,Unable to Locate,Treasure Island
+Citizen Assist / Service Call,45,Fire,Haight Ashbury
+Fuel Spill,4,Code 2 Transport,Outer Richmond
+Medical Incident,489,Other,Tenderloin
+Other,2,Medical Examiner,Glen Park
+Train / Rail Incident,13,Fire,Outer Mission
+Medical Incident,89,Against Medical Advice,Mission Bay
+Medical Incident,4,SFPD,Twin Peaks
+Smoke Investigation (Outside),1,Unable to Locate,Bayview Hunters Point
+Elevator / Escalator Rescue,2,Against Medical Advice,Lone Mountain/USF
+Traffic Collision,23,Other,Golden Gate Park
+Outside Fire,1,Unable to Locate,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,3,Cancelled,Nob Hill
+Structure Fire,1553,Fire,South of Market
+Medical Incident,327,Code 3 Transport,Pacific Heights
+Traffic Collision,10,Cancelled,Presidio
+Medical Incident,594,Cancelled,Mission
+Medical Incident,1498,Code 2 Transport,Lone Mountain/USF
+Traffic Collision,155,Code 2 Transport,Nob Hill
+Citizen Assist / Service Call,4,Patient Declined Transport,Mission Bay
+Other,7,Code 2 Transport,Visitacion Valley
+Vehicle Fire,2,Fire,Twin Peaks
+Medical Incident,631,Medical Examiner,Tenderloin
+Other,6,No Merit,South of Market
+Outside Fire,1,SFPD,Mission Bay
+Gas Leak (Natural and LP Gases),34,Fire,Inner Sunset
+Other,48,Fire,Russian Hill
+Medical Incident,3,Duplicate,Chinatown
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Glen Park
+Traffic Collision,14,Fire,Outer Richmond
+Fuel Spill,1,Unable to Locate,Noe Valley
+Traffic Collision,39,Against Medical Advice,Hayes Valley
+Alarms,6,No Merit,Outer Richmond
+Outside Fire,90,Fire,Western Addition
+Citizen Assist / Service Call,3,Cancelled,Sunset/Parkside
+Medical Incident,35,Other,Haight Ashbury
+Citizen Assist / Service Call,425,Fire,Tenderloin
+Industrial Accidents,3,Code 2 Transport,North Beach
+Elevator / Escalator Rescue,1,Unable to Locate,West of Twin Peaks
+Gas Leak (Natural and LP Gases),4,Patient Declined Transport,Western Addition
+Medical Incident,71,Cancelled,Portola
+Vehicle Fire,2,Other,Inner Sunset
+Medical Incident,19026,Code 2 Transport,South of Market
+Traffic Collision,7,Code 3 Transport,Lincoln Park
+Smoke Investigation (Outside),26,Fire,Nob Hill
+Fuel Spill,19,Fire,Sunset/Parkside
+Electrical Hazard,20,Fire,Visitacion Valley
+Medical Incident,141,Cancelled,West of Twin Peaks
+Odor (Strange / Unknown),1,Fire,Visitacion Valley
+Traffic Collision,27,Other,Financial District/South Beach
+Medical Incident,119,No Merit,Visitacion Valley
+Traffic Collision,2,Duplicate,Treasure Island
+Fuel Spill,7,Fire,Presidio Heights
+HazMat,3,Fire,Inner Richmond
+Citizen Assist / Service Call,2,Code 2 Transport,Seacliff
+Other,6,Patient Declined Transport,Inner Richmond
+Electrical Hazard,2,No Merit,Twin Peaks
+Traffic Collision,81,Patient Declined Transport,Outer Mission
+Other,2,Against Medical Advice,Golden Gate Park
+Smoke Investigation (Outside),8,Fire,Marina
+Gas Leak (Natural and LP Gases),56,Fire,Haight Ashbury
+Medical Incident,37,Fire,Twin Peaks
+Elevator / Escalator Rescue,6,No Merit,Financial District/South Beach
+Medical Incident,55,Code 3 Transport,Presidio
+Traffic Collision,89,Code 3 Transport,Mission
+Water Rescue,40,Code 2 Transport,Presidio
+Traffic Collision,9,Cancelled,Pacific Heights
+Citizen Assist / Service Call,2,Cancelled,Presidio Heights
+Outside Fire,1,Cancelled,Chinatown
+Alarms,3,No Merit,Lakeshore
+Outside Fire,11,Unable to Locate,Bernal Heights
+Traffic Collision,12,Fire,Lakeshore
+Traffic Collision,4,Unable to Locate,Excelsior
+Medical Incident,69,Unable to Locate,Russian Hill
+Medical Incident,191,Against Medical Advice,Western Addition
+Medical Incident,17,Other,Inner Sunset
+Medical Incident,18,Cancelled,Lincoln Park
+Other,5,Against Medical Advice,Bernal Heights
+Other,13,SFPD,Outer Mission
+Traffic Collision,42,Code 3 Transport,West of Twin Peaks
+Traffic Collision,7,Other,Oceanview/Merced/Ingleside
+Explosion,9,Fire,Haight Ashbury
+Traffic Collision,8,Code 3 Transport,Portola
+Odor (Strange / Unknown),1,Unable to Locate,South of Market
+Traffic Collision,116,Code 2 Transport,Marina
+Citizen Assist / Service Call,8,Cancelled,Marina
+Other,3,Patient Declined Transport,Outer Richmond
+Other,5,Code 2 Transport,Chinatown
+Industrial Accidents,6,Patient Declined Transport,Mission
+HazMat,8,Fire,Outer Richmond
+Other,2,Against Medical Advice,Financial District/South Beach
+Water Rescue,29,Fire,Tenderloin
+Traffic Collision,64,No Merit,Bayview Hunters Point
+Traffic Collision,7,Medical Examiner,Oceanview/Merced/Ingleside
+Alarms,1529,Fire,Bayview Hunters Point
+Industrial Accidents,8,Against Medical Advice,Nob Hill
+HazMat,4,Fire,Castro/Upper Market
+Traffic Collision,40,Patient Declined Transport,Russian Hill
+Traffic Collision,4,Gone on Arrival,Outer Richmond
+Citizen Assist / Service Call,2,Patient Declined Transport,Western Addition
+Traffic Collision,17,No Merit,Treasure Island
+Structure Fire,2,Cancelled,Oceanview/Merced/Ingleside
+Fuel Spill,14,Fire,Marina
+Alarms,8,Patient Declined Transport,South of Market
+Alarms,104,Fire,Treasure Island
+Smoke Investigation (Outside),5,Fire,Presidio Heights
+Gas Leak (Natural and LP Gases),110,Fire,Tenderloin
+Traffic Collision,5,Gone on Arrival,Castro/Upper Market
+Citizen Assist / Service Call,2,Code 3 Transport,South of Market
+Outside Fire,1,SFPD,Western Addition
+Medical Incident,65,Medical Examiner,Inner Sunset
+Industrial Accidents,6,Code 3 Transport,Outer Mission
+Other,8,Code 2 Transport,Potrero Hill
+Odor (Strange / Unknown),9,Fire,Potrero Hill
+Odor (Strange / Unknown),4,Patient Declined Transport,Nob Hill
+Traffic Collision,8,Against Medical Advice,North Beach
+Alarms,4,Patient Declined Transport,Lone Mountain/USF
+Medical Incident,66,Unable to Locate,Outer Mission
+Traffic Collision,8,SFPD,Outer Richmond
+Medical Incident,190,No Merit,Potrero Hill
+Other,1,SFPD,Russian Hill
+Traffic Collision,37,Code 2 Transport,Presidio Heights
+Citizen Assist / Service Call,17,Code 2 Transport,Pacific Heights
+Traffic Collision,2,SFPD,Castro/Upper Market
+Electrical Hazard,49,Fire,Potrero Hill
+Elevator / Escalator Rescue,2,Patient Declined Transport,Pacific Heights
+Elevator / Escalator Rescue,1,Cancelled,Outer Mission
+Traffic Collision,3,Cancelled,McLaren Park
+Medical Incident,302,Patient Declined Transport,Excelsior
+Electrical Hazard,12,Fire,Chinatown
+Traffic Collision,2,Against Medical Advice,Glen Park
+Citizen Assist / Service Call,108,Fire,Inner Sunset
+Outside Fire,97,Fire,Mission Bay
+Outside Fire,3,Unable to Locate,Financial District/South Beach
+Alarms,606,Fire,Noe Valley
+Medical Incident,193,No Merit,Chinatown
+Traffic Collision,9,No Merit,Noe Valley
+Odor (Strange / Unknown),4,Fire,Chinatown
+Elevator / Escalator Rescue,2,Against Medical Advice,Bayview Hunters Point
+Odor (Strange / Unknown),3,Fire,Marina
+Structure Fire,4,Cancelled,Hayes Valley
+"Extrication / Entrapped (Machinery, Vehicle)",5,Fire,West of Twin Peaks
+Traffic Collision,51,Patient Declined Transport,Inner Richmond
+Medical Incident,296,No Merit,Marina
+Watercraft in Distress,14,Fire,Outer Richmond
+Medical Incident,25,Other,Mission Bay
+Medical Incident,733,Against Medical Advice,Tenderloin
+Structure Fire,337,Fire,Noe Valley
+Other,5,Patient Declined Transport,Outer Mission
+Traffic Collision,35,Against Medical Advice,Golden Gate Park
+Electrical Hazard,22,Fire,Marina
+HazMat,6,Fire,Outer Mission
+Other,14,Code 3 Transport,Mission
+Other,1,Cancelled,Pacific Heights
+Citizen Assist / Service Call,1,Unable to Locate,Golden Gate Park
+Medical Incident,2,CHP,Portola
+Traffic Collision,3,Gone on Arrival,Outer Mission
+Other,37,Fire,Lakeshore
+Vehicle Fire,2,Unable to Locate,Lakeshore
+Citizen Assist / Service Call,1,Cancelled,Potrero Hill
+Vehicle Fire,16,Fire,Excelsior
+Structure Fire,151,Fire,Treasure Island
+Structure Fire,10,Patient Declined Transport,South of Market
+Elevator / Escalator Rescue,5,Fire,Presidio
+Medical Incident,169,Unable to Locate,Castro/Upper Market
+Alarms,3,Cancelled,Oceanview/Merced/Ingleside
+"Extrication / Entrapped (Machinery, Vehicle)",7,Code 2 Transport,Financial District/South Beach
+Traffic Collision,30,Against Medical Advice,Bernal Heights
+Citizen Assist / Service Call,2,Patient Declined Transport,Haight Ashbury
+Fuel Spill,5,Fire,Chinatown
+Medical Incident,57,Unable to Locate,Outer Richmond
+Traffic Collision,5,SFPD,Outer Mission
+Assist Police,3,SFPD,Excelsior
+Citizen Assist / Service Call,1,Unable to Locate,Bernal Heights
+Smoke Investigation (Outside),5,Unable to Locate,South of Market
+Vehicle Fire,2,No Merit,Nob Hill
+Fuel Spill,20,Fire,Potrero Hill
+Other,3,Code 3 Transport,Portola
+Elevator / Escalator Rescue,1,Other,South of Market
+Gas Leak (Natural and LP Gases),2,No Merit,Mission
+Medical Incident,1,CHP,Mission
+Citizen Assist / Service Call,1,Cancelled,Chinatown
+Other,4,Code 2 Transport,Marina
+Structure Fire,1252,Fire,Bayview Hunters Point
+Outside Fire,3,Code 2 Transport,Pacific Heights
+Traffic Collision,61,Patient Declined Transport,Outer Richmond
+Outside Fire,1,Unable to Locate,Glen Park
+Traffic Collision,59,Code 2 Transport,Chinatown
+Medical Incident,996,Code 2 Transport,Noe Valley
+Traffic Collision,66,Against Medical Advice,Financial District/South Beach
+Other,4,No Merit,Bayview Hunters Point
+Traffic Collision,34,Patient Declined Transport,Castro/Upper Market
+HazMat,2,Fire,Russian Hill
+Medical Incident,114,No Merit,Presidio Heights
+Outside Fire,1,Unable to Locate,North Beach
+Medical Incident,34,SFPD,Excelsior
+Outside Fire,26,Fire,Inner Sunset
+Medical Incident,8,Cancelled,None
+Electrical Hazard,15,Fire,Presidio Heights
+Traffic Collision,2,Other,Japantown
+High Angle Rescue,9,Fire,Lakeshore
+Citizen Assist / Service Call,1,Unable to Locate,Financial District/South Beach
+Citizen Assist / Service Call,51,Fire,Mission Bay
+Medical Incident,80,Against Medical Advice,Haight Ashbury
+Traffic Collision,159,Code 2 Transport,Potrero Hill
+Traffic Collision,34,Other,Hayes Valley
+Medical Incident,16,Gone on Arrival,Excelsior
+Other,2,SFPD,Outer Richmond
+Other,3,Code 2 Transport,Presidio Heights
+Traffic Collision,11,SFPD,Russian Hill
+Medical Incident,49,Unable to Locate,Inner Richmond
+Medical Incident,729,Code 2 Transport,Treasure Island
+Structure Fire,2,No Merit,Lakeshore
+Other,2,SFPD,Castro/Upper Market
+Vehicle Fire,2,No Merit,Sunset/Parkside
+Smoke Investigation (Outside),20,Fire,Potrero Hill
+Alarms,9,Code 3 Transport,Tenderloin
+Other,2,Cancelled,McLaren Park
+Medical Incident,7268,Code 2 Transport,Bayview Hunters Point
+Medical Incident,39,Medical Examiner,Mission Bay
+Smoke Investigation (Outside),15,Fire,Chinatown
+Gas Leak (Natural and LP Gases),81,Fire,Western Addition
+Citizen Assist / Service Call,1,SFPD,Western Addition
+Elevator / Escalator Rescue,4,Code 2 Transport,Tenderloin
+Citizen Assist / Service Call,14,Patient Declined Transport,Tenderloin
+Electrical Hazard,1,Unable to Locate,Noe Valley
+Citizen Assist / Service Call,6,No Merit,Mission
+Traffic Collision,34,Patient Declined Transport,Lakeshore
+Other,11,Medical Examiner,Financial District/South Beach
+Industrial Accidents,3,Code 2 Transport,Golden Gate Park
+Traffic Collision,11,Code 3 Transport,None
+Traffic Collision,10,Fire,Outer Mission
+Outside Fire,1,Cancelled,Nob Hill
+Other,1,Other,Bernal Heights
+Medical Incident,70,Patient Declined Transport,Twin Peaks
+Suspicious Package,3,SFPD,Sunset/Parkside
+Elevator / Escalator Rescue,2,Fire,Seacliff
+Outside Fire,85,Fire,Haight Ashbury
+Other,38,Fire,Inner Richmond
+Medical Incident,79,Against Medical Advice,Inner Sunset
+Other,17,Code 2 Transport,Sunset/Parkside
+Medical Incident,46,Other,Western Addition
+Other,2,SFPD,Lakeshore
+Odor (Strange / Unknown),6,Fire,Sunset/Parkside
+Medical Incident,379,No Merit,Sunset/Parkside
+Structure Fire,2,No Merit,Castro/Upper Market
+Explosion,4,Cancelled,Potrero Hill
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Golden Gate Park
+Medical Incident,2,Duplicate,Marina
+Electrical Hazard,301,Fire,Sunset/Parkside
+Structure Fire,10,No Merit,Outer Richmond
+Fuel Spill,2,Fire,Visitacion Valley
+Odor (Strange / Unknown),1,Unable to Locate,Bayview Hunters Point
+Structure Fire,10,Cancelled,North Beach
+Citizen Assist / Service Call,3,No Merit,West of Twin Peaks
+Gas Leak (Natural and LP Gases),4,Patient Declined Transport,Tenderloin
+Assist Police,2,No Merit,Sunset/Parkside
+Other,54,Cancelled,Presidio
+Other,19,Code 2 Transport,Nob Hill
+Traffic Collision,17,Code 2 Transport,Visitacion Valley
+Outside Fire,4,Cancelled,Sunset/Parkside
+Traffic Collision,81,No Merit,South of Market
+Traffic Collision,7,Other,Glen Park
+Citizen Assist / Service Call,112,Fire,Western Addition
+Outside Fire,172,Fire,Tenderloin
+Alarms,3142,Fire,South of Market
+Watercraft in Distress,3,Fire,Lakeshore
+Industrial Accidents,18,Code 2 Transport,Financial District/South Beach
+Vehicle Fire,2,No Merit,Marina
+Water Rescue,16,No Merit,Lincoln Park
+Other,74,Fire,Castro/Upper Market
+Alarms,9,No Merit,Russian Hill
+Traffic Collision,3,Fire,Russian Hill
+Traffic Collision,2,Other,North Beach
+Other,73,Fire,Outer Richmond
+Gas Leak (Natural and LP Gases),17,Fire,Mission Bay
+Electrical Hazard,1,No Merit,Excelsior
+Medical Incident,142,Medical Examiner,Western Addition
+Medical Incident,23,Unable to Locate,Lakeshore
+Alarms,6,Cancelled,Financial District/South Beach
+Medical Incident,64,Fire,Excelsior
+Outside Fire,3,Unable to Locate,Hayes Valley
+Odor (Strange / Unknown),1,No Merit,Excelsior
+Citizen Assist / Service Call,2,Code 3 Transport,Noe Valley
+Water Rescue,15,Fire,Mission Bay
+Elevator / Escalator Rescue,33,Fire,Pacific Heights
+Electrical Hazard,7,Fire,Nob Hill
+Smoke Investigation (Outside),7,Fire,Visitacion Valley
+Alarms,461,Fire,Lone Mountain/USF
+Odor (Strange / Unknown),9,Fire,Nob Hill
+Other,5,Other,Financial District/South Beach
+Elevator / Escalator Rescue,1,Cancelled,Lakeshore
+Traffic Collision,9,No Merit,Lone Mountain/USF
+Medical Incident,575,No Merit,Nob Hill
+Citizen Assist / Service Call,105,Fire,Financial District/South Beach
+Vehicle Fire,2,SFPD,Outer Richmond
+Fuel Spill,4,Fire,Lone Mountain/USF
+Medical Incident,15,SFPD,Lakeshore
+Structure Fire,33,Other,Mission
+Other,3,No Merit,Sunset/Parkside
+Traffic Collision,6,Code 3 Transport,McLaren Park
+Outside Fire,104,Fire,North Beach
+Water Rescue,13,SFPD,Financial District/South Beach
+Citizen Assist / Service Call,26,Code 2 Transport,Mission
+Citizen Assist / Service Call,1,Cancelled,Lone Mountain/USF
+Elevator / Escalator Rescue,2,Patient Declined Transport,Mission
+Traffic Collision,24,Against Medical Advice,Mission Bay
+Traffic Collision,22,Other,Tenderloin
+Outside Fire,13,Fire,Glen Park
+Medical Incident,14,Other,Golden Gate Park
+Assist Police,2,Fire,Castro/Upper Market
+Alarms,4,Cancelled,Western Addition
+Structure Fire,1398,Fire,Nob Hill
+Citizen Assist / Service Call,1,Other,Outer Richmond
+Citizen Assist / Service Call,3,Cancelled,South of Market
+Structure Fire,5,Code 3 Transport,Oceanview/Merced/Ingleside
+Structure Fire,2,Cancelled,Haight Ashbury
+Citizen Assist / Service Call,3,Other,Castro/Upper Market
+Citizen Assist / Service Call,12,Code 2 Transport,West of Twin Peaks
+Medical Incident,139,Medical Examiner,Financial District/South Beach
+Fuel Spill,14,Fire,South of Market
+Vehicle Fire,3,No Merit,Treasure Island
+Smoke Investigation (Outside),2,Unable to Locate,Potrero Hill
+Odor (Strange / Unknown),3,No Merit,Inner Richmond
+Medical Incident,25,Fire,Inner Richmond
+Medical Incident,5367,Code 2 Transport,Sunset/Parkside
+Water Rescue,8,Medical Examiner,Lakeshore
+Structure Fire,4,No Merit,Excelsior
+Other,2,Other,Western Addition
+Structure Fire,4,Code 2 Transport,Castro/Upper Market
+Medical Incident,31,Other,Bernal Heights
+Citizen Assist / Service Call,4,Code 2 Transport,Portola
+Citizen Assist / Service Call,1,Patient Declined Transport,Japantown
+Medical Incident,11,Gone on Arrival,Lakeshore
+Structure Fire,28,Code 2 Transport,Outer Richmond
+Structure Fire,11,Patient Declined Transport,Chinatown
+Medical Incident,69,Medical Examiner,Bernal Heights
+Other,44,Fire,Excelsior
+Traffic Collision,11,Cancelled,Portola
+Medical Incident,46,Against Medical Advice,Japantown
+Citizen Assist / Service Call,19,Fire,Golden Gate Park
+Traffic Collision,6,Other,Haight Ashbury
+Other,4,Medical Examiner,Western Addition
+Traffic Collision,16,Cancelled,West of Twin Peaks
+Vehicle Fire,3,Other,Oceanview/Merced/Ingleside
+Alarms,204,Fire,Visitacion Valley
+Other,5,No Merit,Nob Hill
+Medical Incident,185,Other,Financial District/South Beach
+Confined Space / Structure Collapse,6,Code 3 Transport,Bayview Hunters Point
+Traffic Collision,4,No Merit,Visitacion Valley
+Traffic Collision,553,Code 2 Transport,South of Market
+Medical Incident,3,Code 3 Transport,Lincoln Park
+Smoke Investigation (Outside),7,Fire,Lone Mountain/USF
+Odor (Strange / Unknown),1,Unable to Locate,Marina
+Water Rescue,9,Code 2 Transport,Lincoln Park
+Citizen Assist / Service Call,1,Other,Inner Richmond
+Traffic Collision,16,Medical Examiner,Tenderloin
+Structure Fire,10,Unable to Locate,Bayview Hunters Point
+Medical Incident,30,Medical Examiner,Golden Gate Park
+Smoke Investigation (Outside),26,Fire,South of Market
+Water Rescue,32,Code 3 Transport,Nob Hill
+Traffic Collision,2,Code 3 Transport,Pacific Heights
+Vehicle Fire,3,Patient Declined Transport,Outer Mission
+Traffic Collision,59,Code 2 Transport,Lone Mountain/USF
+Medical Incident,4348,Code 2 Transport,Nob Hill
+Traffic Collision,52,Cancelled,Mission
+Medical Incident,25,Cancelled,Presidio
+Citizen Assist / Service Call,72,Fire,Bernal Heights
+Medical Incident,46,Fire,Outer Richmond
+Electrical Hazard,1,No Merit,Castro/Upper Market
+Gas Leak (Natural and LP Gases),33,Fire,Oceanview/Merced/Ingleside
+Medical Incident,154,Against Medical Advice,Hayes Valley
+Vehicle Fire,1,Cancelled,Pacific Heights
+Medical Incident,2,Duplicate,Noe Valley
+Electrical Hazard,10,No Merit,Outer Richmond
+Medical Incident,74,Fire,Castro/Upper Market
+Structure Fire,985,Fire,Sunset/Parkside
+Vehicle Fire,10,Fire,Lakeshore
+Odor (Strange / Unknown),6,Code 2 Transport,Excelsior
+Structure Fire,16,Cancelled,Tenderloin
+Medical Incident,413,Code 3 Transport,West of Twin Peaks
+Explosion,5,Fire,Financial District/South Beach
+Medical Incident,10,SFPD,Inner Richmond
+Traffic Collision,4,Unable to Locate,Russian Hill
+Outside Fire,8,Fire,Japantown
+Other,1,Unable to Locate,Castro/Upper Market
+Traffic Collision,34,Against Medical Advice,Western Addition
+Outside Fire,1,Cancelled,Bayview Hunters Point
+Structure Fire,244,Fire,Presidio Heights
+Outside Fire,3,Unable to Locate,Tenderloin
+Industrial Accidents,3,Code 2 Transport,Mission Bay
+Alarms,4,Patient Declined Transport,Sunset/Parkside
+Water Rescue,13,Code 3 Transport,Marina
+Medical Incident,155,Code 3 Transport,Portola
+Citizen Assist / Service Call,3,Against Medical Advice,Russian Hill
+Outside Fire,1,Cancelled,Treasure Island
+Medical Incident,2149,Code 2 Transport,Marina
+Medical Incident,14,Other,Oceanview/Merced/Ingleside
+Vehicle Fire,2,Other,Financial District/South Beach
+Citizen Assist / Service Call,11,Code 3 Transport,Sunset/Parkside
+Other,1,Other,Mission Bay
+Medical Incident,233,Patient Declined Transport,Outer Mission
+Alarms,3,No Merit,Twin Peaks
+Vehicle Fire,2,Cancelled,Presidio
+Traffic Collision,1,Fire,Twin Peaks
+Water Rescue,43,Fire,Financial District/South Beach
+Citizen Assist / Service Call,3,Patient Declined Transport,Glen Park
+Other,3,No Merit,Marina
+Vehicle Fire,12,Fire,Castro/Upper Market
+Medical Incident,87,Fire,Lakeshore
+Medical Incident,57,Unable to Locate,Excelsior
+Outside Fire,109,Fire,Hayes Valley
+Alarms,3,Cancelled,Mission Bay
+Medical Incident,795,Code 3 Transport,Mission
+Vehicle Fire,19,Fire,Outer Richmond
+Traffic Collision,8,Code 3 Transport,Presidio
+Citizen Assist / Service Call,2,SFPD,Financial District/South Beach
+Medical Incident,81,Cancelled,Pacific Heights
+Medical Incident,4,Gone on Arrival,Inner Richmond
+Gas Leak (Natural and LP Gases),84,Fire,Financial District/South Beach
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Mission Bay
+Medical Incident,1030,Code 2 Transport,Presidio Heights
+Water Rescue,1,Fire,Bernal Heights
+Other,3,Code 2 Transport,Treasure Island
+Medical Incident,57,SFPD,Castro/Upper Market
+Outside Fire,2,Unable to Locate,Haight Ashbury
+Medical Incident,135,Against Medical Advice,North Beach
+Alarms,993,Fire,Potrero Hill
+Traffic Collision,9,Unable to Locate,Outer Mission
+Medical Incident,20,SFPD,Outer Richmond
+Citizen Assist / Service Call,54,Fire,Oceanview/Merced/Ingleside
+Traffic Collision,15,No Merit,Potrero Hill
+Outside Fire,2,No Merit,Pacific Heights
+Traffic Collision,8,No Merit,Chinatown
+Gas Leak (Natural and LP Gases),56,Fire,Bernal Heights
+Medical Incident,5,Cancelled,Seacliff
+Medical Incident,189,No Merit,Noe Valley
+Alarms,1012,Fire,Chinatown
+Traffic Collision,38,Patient Declined Transport,Excelsior
+Other,16,Code 2 Transport,Bayview Hunters Point
+Medical Incident,2,Cancelled,McLaren Park
+Structure Fire,922,Fire,Marina
+Medical Incident,36,Against Medical Advice,Glen Park
+Other,2,Medical Examiner,Mission Bay
+Electrical Hazard,78,Fire,Noe Valley
+Medical Incident,578,No Merit,Bayview Hunters Point
+Citizen Assist / Service Call,3,Other,Lakeshore
+Medical Incident,81,Medical Examiner,Oceanview/Merced/Ingleside
+Water Rescue,14,Fire,Golden Gate Park
+Medical Incident,168,Patient Declined Transport,Russian Hill
+Odor (Strange / Unknown),11,Fire,Bayview Hunters Point
+Elevator / Escalator Rescue,14,No Merit,Tenderloin
+Electrical Hazard,71,Fire,Bayview Hunters Point
+Structure Fire,10,Cancelled,Inner Sunset
+Other,17,Code 2 Transport,Noe Valley
+Medical Incident,45,Gone on Arrival,Castro/Upper Market
+Electrical Hazard,1,Unable to Locate,Sunset/Parkside
+Water Rescue,13,Medical Examiner,Outer Richmond
+Electrical Hazard,13,Fire,Treasure Island
+Gas Leak (Natural and LP Gases),3,Fire,Golden Gate Park
+Medical Incident,15,Gone on Arrival,Outer Richmond
+Structure Fire,13,Code 2 Transport,Lakeshore
+Medical Incident,60,No Merit,Treasure Island
+Odor (Strange / Unknown),2,Fire,Treasure Island
+Odor (Strange / Unknown),4,Patient Declined Transport,South of Market
+Vehicle Fire,8,Fire,Inner Richmond
+Other,1,SFPD,Excelsior
+Traffic Collision,29,Cancelled,Sunset/Parkside
+Medical Incident,8,Fire,Golden Gate Park
+Alarms,19,No Merit,Tenderloin
+Outside Fire,7,No Merit,South of Market
+Water Rescue,16,Patient Declined Transport,Russian Hill
+Other,21,SFPD,Mission Bay
+Citizen Assist / Service Call,2,Against Medical Advice,Japantown
+Water Rescue,15,No Merit,Bayview Hunters Point
+Traffic Collision,6,Fire,Tenderloin
+Structure Fire,21,Code 2 Transport,Financial District/South Beach
+Other,4,Patient Declined Transport,Inner Sunset
+Gas Leak (Natural and LP Gases),2,No Merit,Treasure Island
+Medical Incident,5,Gone on Arrival,Oceanview/Merced/Ingleside
+Medical Incident,1,CHP,Bayview Hunters Point
+Gas Leak (Natural and LP Gases),6,No Merit,Bayview Hunters Point
+Medical Incident,118,Medical Examiner,Outer Richmond
+Administrative,2,Other,Tenderloin
+Vehicle Fire,2,Unable to Locate,Western Addition
+Structure Fire,2293,Fire,Mission
+Vehicle Fire,7,Code 3 Transport,Sunset/Parkside
+Medical Incident,55,Medical Examiner,Castro/Upper Market
+Outside Fire,30,Fire,Russian Hill
+Citizen Assist / Service Call,1,Other,Financial District/South Beach
+Gas Leak (Natural and LP Gases),7,No Merit,Noe Valley
+Medical Incident,91,Code 3 Transport,Presidio Heights
+Elevator / Escalator Rescue,25,Fire,Potrero Hill
+Traffic Collision,26,Unable to Locate,Hayes Valley
+"Extrication / Entrapped (Machinery, Vehicle)",6,Fire,Noe Valley
+Traffic Collision,49,Patient Declined Transport,Mission Bay
+Citizen Assist / Service Call,2,Code 2 Transport,Nob Hill
+Other,2,Medical Examiner,Excelsior
+Medical Incident,51,Fire,Bernal Heights
+Other,54,Fire,Western Addition
+Medical Incident,12,Other,Inner Richmond
+Structure Fire,619,Fire,West of Twin Peaks
+Traffic Collision,2,SFPD,Inner Sunset
+Assist Police,4,Fire,Financial District/South Beach
+Electrical Hazard,1,No Merit,Bernal Heights
+Fuel Spill,6,Fire,Presidio
+Citizen Assist / Service Call,87,Fire,Castro/Upper Market
+Other,2,Gone on Arrival,Mission Bay
+Gas Leak (Natural and LP Gases),3,SFPD,Outer Richmond
+Medical Incident,19,SFPD,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,114,Fire,Outer Richmond
+Structure Fire,193,Fire,Portola
+Structure Fire,2,Other,Nob Hill
+Elevator / Escalator Rescue,28,Fire,Chinatown
+Gas Leak (Natural and LP Gases),53,Fire,Lakeshore
+Assist Police,3,Fire,Bernal Heights
+Electrical Hazard,1,No Merit,Financial District/South Beach
+Medical Incident,90,Fire,Financial District/South Beach
+Medical Incident,86,Unable to Locate,Mission Bay
+Alarms,3,Other,Visitacion Valley
+Medical Incident,340,Patient Declined Transport,Hayes Valley
+Vehicle Fire,13,Fire,Oceanview/Merced/Ingleside
+Water Rescue,127,Fire,Lakeshore
+Medical Incident,74,Medical Examiner,Inner Richmond
+Traffic Collision,3,Fire,Haight Ashbury
+Alarms,3,No Merit,Haight Ashbury
+Medical Incident,14249,Code 2 Transport,Mission
+Outside Fire,49,Fire,Outer Mission
+Traffic Collision,4,Cancelled,Nob Hill
+Medical Incident,74,Cancelled,Lone Mountain/USF
+Traffic Collision,41,Code 2 Transport,Presidio
+Other,3,Cancelled,Visitacion Valley
+Other,4,No Merit,West of Twin Peaks
+Structure Fire,35,No Merit,Western Addition
+Other,8,No Merit,Mission
+Vehicle Fire,1,Other,Lakeshore
+Medical Incident,2875,Code 2 Transport,West of Twin Peaks
+Medical Incident,78,Other,Castro/Upper Market
+Marine Fire,11,Fire,North Beach
+Smoke Investigation (Outside),2,Fire,Presidio
+Medical Incident,1046,Cancelled,South of Market
+Medical Incident,40,Other,Outer Richmond
+Industrial Accidents,6,Code 3 Transport,Mission Bay
+Citizen Assist / Service Call,1,Other,Bernal Heights
+Other,2,Unable to Locate,Oceanview/Merced/Ingleside
+Water Rescue,13,Code 2 Transport,Marina
+Medical Incident,1502,Code 2 Transport,Portola
+Smoke Investigation (Outside),1,Cancelled,Outer Richmond
+Medical Incident,95,Patient Declined Transport,Japantown
+Medical Incident,176,Code 3 Transport,Marina
+Citizen Assist / Service Call,51,Fire,Inner Richmond
+Citizen Assist / Service Call,29,Code 2 Transport,Sunset/Parkside
+Odor (Strange / Unknown),4,No Merit,Oceanview/Merced/Ingleside
+Vehicle Fire,60,Fire,Financial District/South Beach
+Gas Leak (Natural and LP Gases),85,Fire,Outer Richmond
+Medical Incident,26,Fire,Oceanview/Merced/Ingleside
+Fuel Spill,1,No Merit,Hayes Valley
+Medical Incident,8,Gone on Arrival,Golden Gate Park
+Water Rescue,26,Cancelled,Presidio
+Traffic Collision,74,Code 2 Transport,Pacific Heights
+Traffic Collision,5,Unable to Locate,Glen Park
+Citizen Assist / Service Call,8,Code 2 Transport,Presidio Heights
+Outside Fire,3,Code 2 Transport,Chinatown
+Traffic Collision,6,Code 3 Transport,Lone Mountain/USF
+Medical Incident,459,Code 3 Transport,Nob Hill
+Traffic Collision,8,Gone on Arrival,Tenderloin
+Gas Leak (Natural and LP Gases),42,Fire,Castro/Upper Market
+Electrical Hazard,1,No Merit,Oceanview/Merced/Ingleside
+Water Rescue,110,Fire,Outer Richmond
+Gas Leak (Natural and LP Gases),4,Code 2 Transport,Nob Hill
+Citizen Assist / Service Call,1,Cancelled,Seacliff
+Medical Incident,33,SFPD,Bernal Heights
+Traffic Collision,2,Unable to Locate,North Beach
+HazMat,5,Fire,Tenderloin
+Electrical Hazard,1,Unable to Locate,Mission
+Medical Incident,91,Against Medical Advice,Outer Mission
+Other,28,Patient Declined Transport,Tenderloin
+Citizen Assist / Service Call,2,No Merit,Noe Valley
+Traffic Collision,2,Cancelled,Marina
+Citizen Assist / Service Call,6,No Merit,Bayview Hunters Point
+Structure Fire,10,SFPD,Mission
+Medical Incident,14,Other,Lakeshore
+Citizen Assist / Service Call,2,Patient Declined Transport,Russian Hill
+Vehicle Fire,3,Code 2 Transport,West of Twin Peaks
+Medical Incident,19,Gone on Arrival,Bernal Heights
+Traffic Collision,79,Patient Declined Transport,Western Addition
+Explosion,10,Fire,Castro/Upper Market
+Traffic Collision,19,SFPD,Tenderloin
+Traffic Collision,68,Code 3 Transport,South of Market
+Smoke Investigation (Outside),6,Fire,Pacific Heights
+Medical Incident,62,Code 2 Transport,Lincoln Park
+Elevator / Escalator Rescue,4,Fire,Visitacion Valley
+Explosion,5,Fire,Outer Richmond
+Medical Incident,5,SFPD,Golden Gate Park
+Other,38,Fire,Mission Bay
+Gas Leak (Natural and LP Gases),63,Fire,Inner Richmond
+Other,10,Cancelled,Potrero Hill
+Medical Incident,116,Gone on Arrival,Financial District/South Beach
+Elevator / Escalator Rescue,1,Cancelled,Western Addition
+Structure Fire,13,Code 2 Transport,Oceanview/Merced/Ingleside
+Structure Fire,10,No Merit,Mission Bay
+Vehicle Fire,18,Fire,Golden Gate Park
+Water Rescue,13,Medical Examiner,Financial District/South Beach
+HazMat,5,Fire,Haight Ashbury
+Medical Incident,58,Medical Examiner,Lakeshore
+Other,1,Unable to Locate,Bernal Heights
+Citizen Assist / Service Call,3,Other,Oceanview/Merced/Ingleside
+Medical Incident,771,Code 3 Transport,Sunset/Parkside
+Smoke Investigation (Outside),2,Fire,Seacliff
+Medical Incident,86,Against Medical Advice,Russian Hill
+Medical Incident,105,Unable to Locate,Western Addition
+Citizen Assist / Service Call,8,Code 2 Transport,Marina
+Smoke Investigation (Outside),17,Fire,McLaren Park
+Smoke Investigation (Outside),1,No Merit,Hayes Valley
+Other,2,Cancelled,Chinatown
+Fuel Spill,5,Fire,Pacific Heights
+Medical Incident,94,Patient Declined Transport,Glen Park
+Traffic Collision,4,Code 2 Transport,Seacliff
+Traffic Collision,21,Against Medical Advice,Excelsior
+Citizen Assist / Service Call,1,Patient Declined Transport,Outer Mission
+Alarms,4,Code 2 Transport,Hayes Valley
+Traffic Collision,14,Code 2 Transport,McLaren Park
+Traffic Collision,4,SFPD,Haight Ashbury
+Vehicle Fire,29,Fire,Bernal Heights
+Citizen Assist / Service Call,4,Code 3 Transport,Mission
+Structure Fire,13,Fire,Lincoln Park
+Traffic Collision,7,Cancelled,Presidio Heights
+Medical Incident,306,Patient Declined Transport,North Beach
+Medical Incident,106,SFPD,Financial District/South Beach
+Electrical Hazard,2,Other,Bayview Hunters Point
+Citizen Assist / Service Call,3,Cancelled,Pacific Heights
+Alarms,6,Fire,None
+Citizen Assist / Service Call,1,Unable to Locate,Excelsior
+Citizen Assist / Service Call,211,Fire,Lakeshore
+Alarms,9,Patient Declined Transport,Mission
+Elevator / Escalator Rescue,6,Cancelled,Financial District/South Beach
+Alarms,12,Code 2 Transport,Inner Sunset
+Outside Fire,1,Unable to Locate,Outer Mission
+Outside Fire,7,No Merit,Potrero Hill
+Medical Incident,20,Gone on Arrival,Western Addition
+Gas Leak (Natural and LP Gases),3,No Merit,Nob Hill
+Citizen Assist / Service Call,14,Code 2 Transport,Noe Valley
+Traffic Collision,2,Unable to Locate,Haight Ashbury
+Elevator / Escalator Rescue,5,Fire,Lone Mountain/USF
+Citizen Assist / Service Call,1,Cancelled,None
+Citizen Assist / Service Call,4,Against Medical Advice,Haight Ashbury
+Traffic Collision,98,Patient Declined Transport,Bernal Heights
+Structure Fire,9,Other,Noe Valley
+Medical Incident,425,Unable to Locate,Financial District/South Beach
+Medical Incident,85,Fire,Mission Bay
+Traffic Collision,5,No Merit,Pacific Heights
+Outside Fire,2,No Merit,Chinatown
+Alarms,1488,Fire,Pacific Heights
+Gas Leak (Natural and LP Gases),33,Fire,Excelsior
+Structure Fire,10,Other,Bayview Hunters Point
+Electrical Hazard,1,Fire,Lincoln Park
+Elevator / Escalator Rescue,107,Fire,South of Market
+Medical Incident,9,No Merit,Lincoln Park
+Other,41,Fire,Oceanview/Merced/Ingleside
+Smoke Investigation (Outside),4,No Merit,Inner Sunset
+Traffic Collision,52,Patient Declined Transport,Golden Gate Park
+Other,2,SFPD,Bernal Heights
+Watercraft in Distress,12,Fire,Financial District/South Beach
+Other,3,Against Medical Advice,Outer Mission
+Medical Incident,2221,Patient Declined Transport,Tenderloin
+Traffic Collision,43,Against Medical Advice,Inner Richmond
+Citizen Assist / Service Call,18,Code 2 Transport,Bayview Hunters Point
+Medical Incident,45,SFPD,Western Addition
+Water Rescue,20,No Merit,Sunset/Parkside
+Citizen Assist / Service Call,1,Other,Mission Bay
+Traffic Collision,68,Cancelled,Bayview Hunters Point
+HazMat,3,Fire,Glen Park
+Vehicle Fire,13,Fire,Western Addition
+Citizen Assist / Service Call,2,No Merit,Marina
+Other,2,Patient Declined Transport,Glen Park
+Traffic Collision,3,Gone on Arrival,North Beach
+Medical Incident,5,CHP,Sunset/Parkside
+Gas Leak (Natural and LP Gases),4,No Merit,Sunset/Parkside
+Traffic Collision,43,Unable to Locate,Tenderloin
+Medical Incident,2,Duplicate,West of Twin Peaks
+Vehicle Fire,14,Code 3 Transport,Bayview Hunters Point
+Medical Incident,39,Unable to Locate,Golden Gate Park
+Other,1,Patient Declined Transport,North Beach
+Traffic Collision,61,Cancelled,Treasure Island
+Other,9,SFPD,Financial District/South Beach
+Gas Leak (Natural and LP Gases),4,Patient Declined Transport,Twin Peaks
+Medical Incident,184,Patient Declined Transport,Haight Ashbury
+Medical Incident,7,Duplicate,Mission
+Other,1,Gone on Arrival,Financial District/South Beach
+Traffic Collision,4,SFPD,Glen Park
+Medical Incident,105,Cancelled,Potrero Hill
+Traffic Collision,14,Code 2 Transport,None
+Outside Fire,11,Fire,Twin Peaks
+Traffic Collision,10,Cancelled,Noe Valley
+Odor (Strange / Unknown),2,SFPD,Mission
+Alarms,110,Fire,Seacliff
+Traffic Collision,23,Against Medical Advice,Castro/Upper Market
+Traffic Collision,6,No Merit,Seacliff
+Structure Fire,10,Unable to Locate,West of Twin Peaks
+Medical Incident,112,Cancelled,Chinatown
+Traffic Collision,134,Patient Declined Transport,Financial District/South Beach
+Alarms,124,Fire,McLaren Park
+Alarms,4,No Merit,Hayes Valley
+Traffic Collision,2,SFPD,North Beach
+Medical Incident,98,Unable to Locate,Bernal Heights
+Traffic Collision,61,Against Medical Advice,Outer Richmond
+Other,3,Code 3 Transport,Sunset/Parkside
+Confined Space / Structure Collapse,9,Code 3 Transport,Mission
+Traffic Collision,8,Fire,Hayes Valley
+Medical Incident,113,Fire,Western Addition
+Other,1,Other,Inner Richmond
+Outside Fire,1,Other,Haight Ashbury
+Odor (Strange / Unknown),1,No Merit,Western Addition
+Electrical Hazard,1,No Merit,Western Addition
+Medical Incident,89,Code 3 Transport,Treasure Island
+Other,49,Fire,Bernal Heights
+Traffic Collision,27,Other,Outer Mission
+Medical Incident,121,Medical Examiner,Excelsior
+Alarms,33,Code 2 Transport,Tenderloin
+Medical Incident,968,Code 3 Transport,Bayview Hunters Point
+Other,3,SFPD,Oceanview/Merced/Ingleside
+Structure Fire,15,No Merit,Financial District/South Beach
+Water Rescue,15,Medical Examiner,Mission Bay
+Medical Incident,8,Gone on Arrival,Mission Bay
+Outside Fire,4,No Merit,Visitacion Valley
+Citizen Assist / Service Call,46,Fire,Excelsior
+Medical Incident,149,Patient Declined Transport,Inner Sunset
+Traffic Collision,10,Code 3 Transport,Chinatown
+Medical Incident,116,Code 3 Transport,Noe Valley
+Outside Fire,4,Cancelled,Mission
+Gas Leak (Natural and LP Gases),5,No Merit,Presidio Heights
+Smoke Investigation (Outside),4,No Merit,Tenderloin
+High Angle Rescue,7,Fire,Financial District/South Beach
+Other,14,Fire,Golden Gate Park
+Fuel Spill,1,No Merit,Haight Ashbury
+Medical Incident,9,SFPD,Mission Bay
+Medical Incident,24,Against Medical Advice,Twin Peaks
+Electrical Hazard,2,Other,Sunset/Parkside
+Vehicle Fire,2,Unable to Locate,Bernal Heights
+Traffic Collision,38,Patient Declined Transport,Oceanview/Merced/Ingleside
+Other,1,Medical Examiner,Castro/Upper Market
+Citizen Assist / Service Call,1,No Merit,Nob Hill
+Traffic Collision,21,Against Medical Advice,Lakeshore
+Water Rescue,8,Cancelled,None
+Traffic Collision,8,Code 3 Transport,Potrero Hill
+Electrical Hazard,94,Fire,Mission
+Train / Rail Incident,47,Fire,Financial District/South Beach
+Traffic Collision,10,SFPD,Hayes Valley
+Other,37,Cancelled,South of Market
+Other,2,Other,Outer Richmond
+Traffic Collision,1,Fire,North Beach
+Traffic Collision,9,No Merit,Presidio
+Medical Incident,1750,No Merit,Mission
+Traffic Collision,6,Other,Russian Hill
+Other,11,Code 2 Transport,West of Twin Peaks
+Alarms,307,Fire,Presidio
+Odor (Strange / Unknown),29,Fire,Mission
+Other,3,Other,Castro/Upper Market
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Castro/Upper Market
+Outside Fire,1,Other,Tenderloin
+Alarms,12,Other,South of Market
+Citizen Assist / Service Call,1,Other,Western Addition
+Other,1,Code 2 Transport,Portola
+Medical Incident,31,Unable to Locate,Oceanview/Merced/Ingleside
+Vehicle Fire,2,Unable to Locate,Financial District/South Beach
+Vehicle Fire,12,Fire,Mission Bay
+Structure Fire,2,No Merit,Golden Gate Park
+HazMat,4,Fire,Hayes Valley
+Water Rescue,13,No Merit,Marina
+Other,2,Unable to Locate,Mission Bay
+Medical Incident,64,No Merit,Portola
+Other,190,Fire,Financial District/South Beach
+Other,1,Patient Declined Transport,Hayes Valley
+Odor (Strange / Unknown),2,Fire,Portola
+Assist Police,1,Fire,Western Addition
+Elevator / Escalator Rescue,1,Other,Pacific Heights
+Electrical Hazard,21,Fire,Portola
+Other,56,Code 2 Transport,Mission
+Other,4,Cancelled,Lone Mountain/USF
+Gas Leak (Natural and LP Gases),4,No Merit,Marina
+Medical Incident,68,Cancelled,Visitacion Valley
+Odor (Strange / Unknown),9,Fire,West of Twin Peaks
+Medical Incident,315,No Merit,West of Twin Peaks
+Medical Incident,20,Other,Excelsior
+Traffic Collision,2,Gone on Arrival,Hayes Valley
+Other,2,Medical Examiner,Inner Richmond
+Structure Fire,10,No Merit,Bernal Heights
+Industrial Accidents,5,Other,West of Twin Peaks
+Electrical Hazard,66,Fire,West of Twin Peaks
+Vehicle Fire,7,Patient Declined Transport,Tenderloin
+Medical Incident,27,SFPD,Lone Mountain/USF
+Marine Fire,14,Fire,Bayview Hunters Point
+Medical Incident,223,Gone on Arrival,South of Market
+Other,2,SFPD,Visitacion Valley
+Fuel Spill,6,Fire,Lakeshore
+Outside Fire,3,No Merit,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,6,Code 2 Transport,Inner Sunset
+Electrical Hazard,2,Patient Declined Transport,Outer Richmond
+Alarms,9,No Merit,Presidio Heights
+Traffic Collision,59,Code 3 Transport,Bernal Heights
+Other,4,Against Medical Advice,West of Twin Peaks
+Traffic Collision,4,Fire,Presidio Heights
+Citizen Assist / Service Call,79,Fire,Pacific Heights
+Outside Fire,5,Unable to Locate,Mission
+Citizen Assist / Service Call,2,Cancelled,Lakeshore
+Vehicle Fire,4,Unable to Locate,Potrero Hill
+Traffic Collision,11,Patient Declined Transport,Visitacion Valley
+Other,104,Fire,Potrero Hill
+Other,3,Patient Declined Transport,Nob Hill
+Electrical Hazard,1,SFPD,Russian Hill
+Outside Fire,1,Unable to Locate,West of Twin Peaks
+Medical Incident,1,Other,McLaren Park
+HazMat,5,Fire,Nob Hill
+Elevator / Escalator Rescue,27,Fire,Western Addition
+Other,4,Against Medical Advice,Mission
+Medical Incident,2,Other,Seacliff
+Medical Incident,1549,Code 3 Transport,Tenderloin
+Medical Incident,201,SFPD,South of Market
+Alarms,4,Code 2 Transport,Bayview Hunters Point
+Medical Incident,2,Gone on Arrival,Lone Mountain/USF
+Outside Fire,1,Unable to Locate,Portola
+Traffic Collision,2,Code 3 Transport,Golden Gate Park
+Medical Incident,92,Medical Examiner,Pacific Heights
+Medical Incident,2,Duplicate,Russian Hill
+Structure Fire,152,Fire,Twin Peaks
+Other,57,Fire,Chinatown
+Structure Fire,21,Patient Declined Transport,Excelsior
+Medical Incident,13,Other,Pacific Heights
+Traffic Collision,11,Fire,Marina
+Vehicle Fire,3,Patient Declined Transport,Treasure Island
+Vehicle Fire,37,Fire,South of Market
+Alarms,5,No Merit,Marina
+Fuel Spill,1,No Merit,Treasure Island
+Outside Fire,1,Other,Noe Valley
+Alarms,3,Other,Mission Bay
+Structure Fire,12,No Merit,Chinatown
+Alarms,4,Against Medical Advice,Tenderloin
+Other,1,No Merit,Twin Peaks
+Citizen Assist / Service Call,1,No Merit,Japantown
+Medical Incident,20,Unable to Locate,Visitacion Valley
+Smoke Investigation (Outside),3,Fire,Lakeshore
+Smoke Investigation (Outside),1,Unable to Locate,Excelsior
+Medical Incident,9,Medical Examiner,Seacliff
+Traffic Collision,5,SFPD,Sunset/Parkside
+Fuel Spill,1,No Merit,Bayview Hunters Point
+Other,5,Cancelled,Mission Bay
+Elevator / Escalator Rescue,1,No Merit,Mission
+Traffic Collision,125,Code 2 Transport,Lakeshore
+Vehicle Fire,4,Cancelled,Financial District/South Beach
+Medical Incident,55,Cancelled,Oceanview/Merced/Ingleside
+Medical Incident,111,Code 3 Transport,Haight Ashbury
+Water Rescue,180,Fire,Presidio
+Outside Fire,6,Other,Treasure Island
+Gas Leak (Natural and LP Gases),3,Cancelled,Castro/Upper Market
+Traffic Collision,8,Cancelled,Inner Sunset
+Outside Fire,6,Other,Bayview Hunters Point
+Medical Incident,788,Code 2 Transport,Twin Peaks
+Citizen Assist / Service Call,2,Fire,McLaren Park
+Water Rescue,12,Cancelled,Outer Richmond
+Medical Incident,1,Duplicate,Outer Mission
+Citizen Assist / Service Call,11,Fire,Seacliff
+Gas Leak (Natural and LP Gases),6,Fire,Presidio
+Other,9,Patient Declined Transport,Sunset/Parkside
+Traffic Collision,89,Code 3 Transport,Financial District/South Beach
+Other,1,SFPD,Chinatown
+Assist Police,3,Cancelled,Golden Gate Park
+Fuel Spill,8,Fire,Inner Richmond
+Odor (Strange / Unknown),4,No Merit,South of Market
+Medical Incident,107,Patient Declined Transport,Treasure Island
+Medical Incident,199,Fire,South of Market
+Outside Fire,2,No Merit,Golden Gate Park
+Other,1,Patient Declined Transport,Presidio Heights
+Watercraft in Distress,15,Cancelled,Mission Bay
+Explosion,13,Fire,Pacific Heights
+Medical Incident,257,No Merit,Russian Hill
+Medical Incident,9,Other,Presidio
+Traffic Collision,40,Other,Mission
+Smoke Investigation (Outside),32,Fire,Outer Richmond
+Odor (Strange / Unknown),3,Fire,Russian Hill
+Medical Incident,914,Patient Declined Transport,Bayview Hunters Point
+Electrical Hazard,23,Fire,Russian Hill
+Citizen Assist / Service Call,72,Code 2 Transport,Tenderloin
+Traffic Collision,2,Gone on Arrival,Presidio Heights
+Outside Fire,2,Code 2 Transport,Western Addition
+Smoke Investigation (Outside),14,Fire,Castro/Upper Market
+Other,2,SFPD,Potrero Hill
+Elevator / Escalator Rescue,4,Patient Declined Transport,Tenderloin
+Medical Incident,150,Patient Declined Transport,Noe Valley
+Traffic Collision,133,Code 2 Transport,Outer Richmond
+Medical Incident,236,Code 3 Transport,Inner Sunset
+Traffic Collision,18,Patient Declined Transport,Chinatown
+Other,5,Code 2 Transport,Russian Hill
+Traffic Collision,2,SFPD,Presidio Heights
+Gas Leak (Natural and LP Gases),46,Fire,Pacific Heights
+Medical Incident,647,Cancelled,Financial District/South Beach
+Alarms,330,Fire,Excelsior
+Other,1,Gone on Arrival,Potrero Hill
+Traffic Collision,132,Code 2 Transport,Castro/Upper Market
+Traffic Collision,12,Other,West of Twin Peaks
+Traffic Collision,9,No Merit,Excelsior
+Traffic Collision,25,Code 3 Transport,Oceanview/Merced/Ingleside
+Traffic Collision,7,Cancelled,Haight Ashbury
+Outside Fire,1,Cancelled,Outer Mission
+Traffic Collision,23,Other,Portola
+Traffic Collision,4,Fire,Nob Hill
+Medical Incident,48,Fire,Lone Mountain/USF
+Traffic Collision,75,Patient Declined Transport,Potrero Hill
+Other,20,Fire,Visitacion Valley
+Alarms,3,No Merit,Nob Hill
+Elevator / Escalator Rescue,51,Fire,Mission Bay
+Structure Fire,15,Code 2 Transport,South of Market
+Traffic Collision,7,Medical Examiner,Portola
+Fuel Spill,12,Fire,Castro/Upper Market
+Outside Fire,6,No Merit,Financial District/South Beach
+Citizen Assist / Service Call,9,Fire,Presidio
+Medical Incident,129,Cancelled,Bernal Heights
+Gas Leak (Natural and LP Gases),6,Fire,Seacliff
+Other,11,Cancelled,Western Addition
+Traffic Collision,2,Gone on Arrival,Marina
+Structure Fire,7,Cancelled,West of Twin Peaks
+Medical Incident,38,Unable to Locate,Chinatown
+Fuel Spill,10,Fire,Outer Richmond
+Citizen Assist / Service Call,4,Code 2 Transport,Haight Ashbury
+Gas Leak (Natural and LP Gases),1,No Merit,Hayes Valley
+Fuel Spill,2,Against Medical Advice,Hayes Valley
+Citizen Assist / Service Call,1,SFPD,McLaren Park
+Smoke Investigation (Outside),13,Fire,Inner Richmond
+Odor (Strange / Unknown),2,Fire,Outer Mission
+Citizen Assist / Service Call,4,Cancelled,Castro/Upper Market
+Medical Incident,215,No Merit,Outer Mission
+Medical Incident,58,Unable to Locate,Potrero Hill
+Citizen Assist / Service Call,2,Against Medical Advice,Noe Valley
+Water Rescue,19,Fire,Seacliff
+Citizen Assist / Service Call,2,Code 3 Transport,Twin Peaks
+Citizen Assist / Service Call,5,Other,South of Market
+Citizen Assist / Service Call,1,Cancelled,Outer Richmond
+Smoke Investigation (Outside),3,Other,Bernal Heights
+Electrical Hazard,36,Fire,Outer Mission
+HazMat,8,Fire,Marina
+Alarms,6,Other,Western Addition
+Elevator / Escalator Rescue,1,Cancelled,Chinatown
+Medical Incident,30,Cancelled,Golden Gate Park
+Traffic Collision,14,Fire,Sunset/Parkside
+Traffic Collision,126,Code 2 Transport,Inner Richmond
+Traffic Collision,12,Unable to Locate,Treasure Island
+Traffic Collision,39,Cancelled,Tenderloin
+Alarms,3,No Merit,Sunset/Parkside
+Medical Incident,12,Medical Examiner,Presidio
+Assist Police,5,Fire,South of Market
+Other,14,Code 2 Transport,Outer Mission
+Industrial Accidents,3,Code 3 Transport,Chinatown
+Administrative,2,Other,Sunset/Parkside
+Gas Leak (Natural and LP Gases),2,No Merit,Japantown
+Structure Fire,7,Cancelled,Mission
+Traffic Collision,49,Unable to Locate,Bayview Hunters Point
+Traffic Collision,10,SFPD,Marina
+Medical Incident,1722,Code 2 Transport,Russian Hill
+Medical Incident,19,Gone on Arrival,Potrero Hill
+Other,13,Cancelled,Financial District/South Beach
+Structure Fire,241,Fire,Outer Mission
+Citizen Assist / Service Call,7,No Merit,Tenderloin
+Other,3,Patient Declined Transport,Noe Valley
+Outside Fire,3,No Merit,Western Addition
+Smoke Investigation (Outside),1,Unable to Locate,Lakeshore
+Other,3,Code 3 Transport,Inner Sunset
+Alarms,3,Duplicate,Bayview Hunters Point
+Smoke Investigation (Outside),8,Fire,Excelsior
+HazMat,3,Fire,Noe Valley
+Other,29,Fire,Lone Mountain/USF
+Medical Incident,30,Fire,Visitacion Valley
+Odor (Strange / Unknown),1,No Merit,Visitacion Valley
+Alarms,10,Other,Financial District/South Beach
+Citizen Assist / Service Call,3,Patient Declined Transport,Lincoln Park
+Vehicle Fire,2,Unable to Locate,South of Market
+Smoke Investigation (Outside),1,No Merit,Nob Hill
+Traffic Collision,50,SFPD,Bayview Hunters Point
+Electrical Hazard,1,Cancelled,West of Twin Peaks
+Medical Incident,18,Gone on Arrival,Chinatown
+Traffic Collision,9,Unable to Locate,Marina
+Medical Incident,3,CHP,Inner Sunset
+Gas Leak (Natural and LP Gases),2,No Merit,Inner Sunset
+Traffic Collision,20,Code 3 Transport,Mission Bay
+Other,218,Fire,South of Market
+Other,2,Patient Declined Transport,Treasure Island
+Medical Incident,62,Patient Declined Transport,Presidio Heights
+Traffic Collision,26,Cancelled,North Beach
+Medical Incident,28,SFPD,Chinatown
+Vehicle Fire,1,Unable to Locate,Lone Mountain/USF
+Traffic Collision,4,SFPD,Noe Valley
+Traffic Collision,3,Gone on Arrival,Bayview Hunters Point
+Elevator / Escalator Rescue,3,Fire,Oceanview/Merced/Ingleside
+Alarms,698,Fire,Outer Richmond
+Traffic Collision,15,No Merit,Outer Richmond
+Traffic Collision,4,Cancelled,Glen Park
+Medical Incident,17,SFPD,Potrero Hill
+Traffic Collision,10,CHP,Oceanview/Merced/Ingleside
+Other,1,No Merit,Russian Hill
+Alarms,837,Fire,Castro/Upper Market
+HazMat,7,Fire,Bayview Hunters Point
+Traffic Collision,10,No Merit,Castro/Upper Market
+Traffic Collision,124,Code 2 Transport,Excelsior
+Other,6,Patient Declined Transport,Bayview Hunters Point
+Other,14,Medical Examiner,Presidio
+Smoke Investigation (Outside),1,No Merit,Sunset/Parkside
+Vehicle Fire,44,Fire,Potrero Hill
+Medical Incident,1981,Code 2 Transport,Outer Mission
+Outside Fire,376,Fire,Mission
+Citizen Assist / Service Call,2,Code 2 Transport,Glen Park
+Other,2,Cancelled,Golden Gate Park
+Gas Leak (Natural and LP Gases),5,Patient Declined Transport,Mission
+Medical Incident,235,Code 3 Transport,Hayes Valley
+Gas Leak (Natural and LP Gases),3,Fire,None
+Structure Fire,498,Fire,Russian Hill
+Traffic Collision,29,Against Medical Advice,Pacific Heights
+Structure Fire,28,No Merit,South of Market
+Fuel Spill,2,Fire,Excelsior
+Citizen Assist / Service Call,8,Code 2 Transport,North Beach
+Odor (Strange / Unknown),1,Other,Tenderloin
+Citizen Assist / Service Call,2,No Merit,Haight Ashbury
+Water Rescue,23,Fire,None
+Elevator / Escalator Rescue,2,Patient Declined Transport,North Beach
+Structure Fire,61,Code 2 Transport,Visitacion Valley
+Vehicle Fire,8,Fire,Chinatown
+Medical Incident,214,Cancelled,Western Addition
+Gas Leak (Natural and LP Gases),2,Patient Declined Transport,Portola
+Vehicle Fire,4,Against Medical Advice,Portola
+Medical Incident,4,Against Medical Advice,Lincoln Park
+Other,2,Cancelled,Bernal Heights
+Outside Fire,39,Fire,Portola
+Outside Fire,2,Other,Nob Hill
+Medical Incident,153,Code 3 Transport,Japantown
+Traffic Collision,11,No Merit,Inner Richmond
+Medical Incident,231,Patient Declined Transport,Marina
+Elevator / Escalator Rescue,2,Unable to Locate,Western Addition
+Alarms,635,Fire,Inner Richmond
+Outside Fire,60,Fire,West of Twin Peaks
+Medical Incident,489,Against Medical Advice,Mission
+Electrical Hazard,1,No Merit,Potrero Hill
+Traffic Collision,20,Patient Declined Transport,Lone Mountain/USF
+Medical Incident,437,Patient Declined Transport,Nob Hill
+Medical Incident,27,Fire,Potrero Hill
+Explosion,4,No Merit,Tenderloin
+Elevator / Escalator Rescue,5,Fire,Bernal Heights
+Traffic Collision,3,Fire,Noe Valley
+Other,7,Medical Examiner,Pacific Heights
+Alarms,9,No Merit,Noe Valley
+Medical Incident,40,Fire,Chinatown
+Other,3,Code 3 Transport,Tenderloin
+Other,8,SFPD,South of Market
+Medical Incident,2,Gone on Arrival,Visitacion Valley
+Outside Fire,2,No Merit,Mission Bay
+Structure Fire,10,Patient Declined Transport,Inner Richmond
+High Angle Rescue,8,Code 2 Transport,Twin Peaks
+Traffic Collision,22,Cancelled,Hayes Valley
+Citizen Assist / Service Call,1,No Merit,Inner Sunset
+Alarms,11,No Merit,Bayview Hunters Point
+HazMat,5,No Merit,Castro/Upper Market
+Traffic Collision,59,Fire,Bayview Hunters Point
+Outside Fire,13,Fire,Lincoln Park
+Citizen Assist / Service Call,20,Against Medical Advice,Sunset/Parkside
+Medical Incident,62,Against Medical Advice,Portola
+Medical Incident,15,SFPD,Visitacion Valley
+Traffic Collision,36,Code 3 Transport,Western Addition
+Gas Leak (Natural and LP Gases),4,No Merit,Tenderloin
+Traffic Collision,6,Unable to Locate,Sunset/Parkside
+Medical Incident,132,Against Medical Advice,West of Twin Peaks
+Traffic Collision,165,Patient Declined Transport,South of Market
+Traffic Collision,10,Fire,Treasure Island
+Smoke Investigation (Outside),1,Unable to Locate,Castro/Upper Market
+Elevator / Escalator Rescue,4,Cancelled,South of Market
+Smoke Investigation (Outside),1,Unable to Locate,Outer Richmond
+Citizen Assist / Service Call,1,Patient Declined Transport,West of Twin Peaks
+Other,9,Cancelled,Oceanview/Merced/Ingleside
+Medical Incident,912,Unable to Locate,South of Market
+Medical Incident,453,Patient Declined Transport,Sunset/Parkside
+Citizen Assist / Service Call,8,Code 2 Transport,Japantown
+Other,2,Code 2 Transport,Twin Peaks
+Vehicle Fire,6,Fire,Visitacion Valley
+Medical Incident,4,Medical Examiner,None
+Citizen Assist / Service Call,1,Other,Potrero Hill
+Citizen Assist / Service Call,2,Patient Declined Transport,Portola
+Citizen Assist / Service Call,4,Code 2 Transport,Hayes Valley
+Smoke Investigation (Outside),2,No Merit,Marina
+Medical Incident,96,Code 3 Transport,Glen Park
+Elevator / Escalator Rescue,1,Unable to Locate,Mission Bay
+Elevator / Escalator Rescue,154,Fire,Financial District/South Beach
+Medical Incident,37,No Merit,Twin Peaks
+Traffic Collision,4,Unable to Locate,Nob Hill
+Medical Incident,26,Unable to Locate,Lone Mountain/USF
+Odor (Strange / Unknown),1,Fire,Twin Peaks
+Other,2,Unable to Locate,Visitacion Valley
+Gas Leak (Natural and LP Gases),3,Code 2 Transport,North Beach
+Electrical Hazard,9,Fire,Twin Peaks
+Industrial Accidents,6,Code 3 Transport,South of Market
+Gas Leak (Natural and LP Gases),6,Against Medical Advice,Presidio Heights
+Assist Police,3,Fire,Potrero Hill
+Citizen Assist / Service Call,2,Code 3 Transport,Outer Mission
+Traffic Collision,20,No Merit,Lakeshore
+Assist Police,1,Fire,Chinatown
+Citizen Assist / Service Call,3,Fire,None
+Medical Incident,252,Code 3 Transport,North Beach
+Alarms,916,Fire,Lakeshore
+Citizen Assist / Service Call,9,Patient Declined Transport,Mission
+Gas Leak (Natural and LP Gases),2,Code 2 Transport,Glen Park
+Medical Incident,125,Cancelled,Mission Bay
+Water Rescue,47,Code 2 Transport,North Beach
+Citizen Assist / Service Call,4,Against Medical Advice,Nob Hill
+Medical Incident,72,Unable to Locate,Pacific Heights
+Citizen Assist / Service Call,2,Code 3 Transport,Hayes Valley
+Medical Incident,620,Code 2 Transport,Glen Park
+Outside Fire,1,Unable to Locate,Noe Valley
+Smoke Investigation (Outside),3,No Merit,Portola
+Alarms,4115,Fire,Financial District/South Beach
+Medical Incident,111,Cancelled,Excelsior
+Elevator / Escalator Rescue,2,Patient Declined Transport,Outer Mission
+Medical Incident,5,Other,Visitacion Valley
+Citizen Assist / Service Call,6,Code 2 Transport,Outer Mission
+Other,1,Other,Lone Mountain/USF
+Traffic Collision,75,No Merit,Financial District/South Beach
+Smoke Investigation (Outside),4,No Merit,West of Twin Peaks
+Odor (Strange / Unknown),4,Fire,Haight Ashbury
+Medical Incident,2832,Code 2 Transport,North Beach
+Elevator / Escalator Rescue,1,Cancelled,Pacific Heights
+Medical Incident,211,No Merit,Haight Ashbury
+Fuel Spill,1,SFPD,Mission Bay
+Medical Incident,57,Against Medical Advice,Presidio Heights
+Alarms,5,Code 2 Transport,Mission
+Elevator / Escalator Rescue,14,Fire,Lakeshore
+Fuel Spill,2,Patient Declined Transport,Inner Sunset
+Electrical Hazard,15,Fire,Haight Ashbury
+Other,111,Fire,Presidio
+Structure Fire,14,Code 3 Transport,Potrero Hill
+Alarms,3,Other,Castro/Upper Market
+Outside Fire,94,Fire,Sunset/Parkside
+Outside Fire,4,Unable to Locate,Treasure Island
+Citizen Assist / Service Call,1,Cancelled,Western Addition
+Outside Fire,2,Cancelled,Tenderloin
+Alarms,3,Cancelled,South of Market
+Smoke Investigation (Outside),2,No Merit,Mission
+Other,10,Code 2 Transport,Haight Ashbury
+Structure Fire,14,Patient Declined Transport,Oceanview/Merced/Ingleside
+Alarms,6,Other,Outer Richmond
+Other,9,Cancelled,Castro/Upper Market
+Outside Fire,10,Unable to Locate,Bayview Hunters Point
+Traffic Collision,6,Cancelled,Russian Hill
+Other,3,Against Medical Advice,Noe Valley
+Other,3,Cancelled,Outer Richmond
+Other,5,Other,South of Market
+Other,1,Code 3 Transport,Twin Peaks
+Citizen Assist / Service Call,2,Patient Declined Transport,Marina
+Fuel Spill,9,Fire,Western Addition
+Industrial Accidents,8,Code 2 Transport,Lone Mountain/USF
+Alarms,64,Fire,Golden Gate Park
+Medical Incident,2790,No Merit,Tenderloin
+Traffic Collision,13,No Merit,Golden Gate Park
+Odor (Strange / Unknown),15,Fire,Tenderloin
+Explosion,8,Fire,Potrero Hill
+Other,1,SFPD,Pacific Heights
+Electrical Hazard,11,Fire,Tenderloin
+Elevator / Escalator Rescue,3,No Merit,Bayview Hunters Point
+Citizen Assist / Service Call,13,Code 2 Transport,Russian Hill
+Confined Space / Structure Collapse,6,Fire,South of Market
+Structure Fire,178,Fire,Glen Park
+Medical Incident,102,Against Medical Advice,Marina
+Traffic Collision,155,Code 2 Transport,Western Addition
+Citizen Assist / Service Call,48,Fire,Visitacion Valley
+Explosion,4,Fire,Chinatown
+Outside Fire,3,Other,Mission
+Medical Incident,7,Patient Declined Transport,Lincoln Park
+Structure Fire,346,Fire,North Beach
+Structure Fire,13,SFPD,Japantown
+Traffic Collision,12,No Merit,Bernal Heights
+Gas Leak (Natural and LP Gases),25,Fire,Chinatown
+Medical Incident,5,Unable to Locate,McLaren Park
+Smoke Investigation (Outside),13,Fire,Western Addition
+Outside Fire,1,Other,West of Twin Peaks
+Alarms,426,Fire,Bernal Heights
+Outside Fire,1,No Merit,Excelsior
+Alarms,3,Other,Inner Richmond
+Citizen Assist / Service Call,2,Patient Declined Transport,Presidio Heights
+Traffic Collision,44,Patient Declined Transport,Pacific Heights
+Traffic Collision,19,Cancelled,Outer Mission
+Outside Fire,71,Fire,Nob Hill
+Other,2,Medical Examiner,Lone Mountain/USF
+Medical Incident,59,Medical Examiner,Visitacion Valley
+Medical Incident,1,Duplicate,Inner Sunset
+Other,22,Code 2 Transport,Tenderloin
+Other,8,Cancelled,Inner Richmond
+Gas Leak (Natural and LP Gases),82,Fire,Potrero Hill
+Traffic Collision,81,Against Medical Advice,South of Market
+Structure Fire,4,No Merit,Pacific Heights
+Medical Incident,319,Patient Declined Transport,West of Twin Peaks
+Medical Incident,31,Other,Chinatown
+Vehicle Fire,7,No Merit,Tenderloin
+Outside Fire,51,Fire,Marina
+Traffic Collision,13,Other,Noe Valley
+Structure Fire,10,Patient Declined Transport,Bernal Heights
+Other,1,Fire,McLaren Park
+Medical Incident,1506,Code 2 Transport,Japantown
+Other,8,No Merit,Hayes Valley
+Medical Incident,34,Other,Potrero Hill
+Outside Fire,1,SFPD,Sunset/Parkside
+Medical Incident,149,Patient Declined Transport,Portola
+Other,11,SFPD,Presidio
+Citizen Assist / Service Call,6,Patient Declined Transport,Sunset/Parkside
+Other,1,Fire,Seacliff
+Citizen Assist / Service Call,2,Unable to Locate,South of Market
+Elevator / Escalator Rescue,6,Fire,Inner Richmond
+Smoke Investigation (Outside),1,Unable to Locate,Bernal Heights
+Traffic Collision,34,Other,Treasure Island
+Electrical Hazard,1,SFPD,Haight Ashbury
+Medical Incident,199,Code 3 Transport,Outer Mission
+Fuel Spill,5,Fire,Mission Bay
+Medical Incident,3050,Code 2 Transport,Hayes Valley
+Traffic Collision,14,Against Medical Advice,Lone Mountain/USF
+Medical Incident,152,Against Medical Advice,Nob Hill
+Outside Fire,1,Cancelled,Inner Sunset
+Traffic Collision,88,Other,Bayview Hunters Point
+Medical Incident,1,Duplicate,Haight Ashbury
+Citizen Assist / Service Call,3,Cancelled,Mission Bay
+Medical Incident,1564,Patient Declined Transport,Mission
+Traffic Collision,10,Patient Declined Transport,Presidio
+Traffic Collision,14,Medical Examiner,Bayview Hunters Point
+Citizen Assist / Service Call,7,Patient Declined Transport,Nob Hill
+Citizen Assist / Service Call,68,Fire,Potrero Hill
+Traffic Collision,86,Code 2 Transport,Mission Bay
+Traffic Collision,19,No Merit,Oceanview/Merced/Ingleside
+Structure Fire,4,Cancelled,Treasure Island
+Alarms,329,Fire,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,2,Against Medical Advice,Mission
+Elevator / Escalator Rescue,10,Fire,Castro/Upper Market
+Traffic Collision,44,Unable to Locate,Mission
+Medical Incident,8,Unable to Locate,Presidio
+Odor (Strange / Unknown),7,Fire,Inner Sunset
+Medical Incident,167,No Merit,Inner Sunset
+Elevator / Escalator Rescue,9,Fire,Outer Richmond
+Vehicle Fire,4,Code 2 Transport,North Beach
+Electrical Hazard,39,Fire,Inner Sunset
+Outside Fire,11,Fire,Presidio Heights
+Citizen Assist / Service Call,59,Fire,Chinatown
+Structure Fire,182,Fire,Japantown
+Traffic Collision,13,Code 3 Transport,Excelsior
+Structure Fire,14,Cancelled,Bayview Hunters Point
+Medical Incident,177,Code 3 Transport,Russian Hill
+Citizen Assist / Service Call,4,Against Medical Advice,Portola
+Water Rescue,12,Code 2 Transport,Russian Hill
+Structure Fire,865,Fire,Hayes Valley
+Gas Leak (Natural and LP Gases),28,Fire,Visitacion Valley
+Train / Rail Fire,11,Fire,Bayview Hunters Point
+Alarms,6,Other,Lakeshore
+Medical Incident,32,Duplicate,Tenderloin
+Traffic Collision,6,Unable to Locate,West of Twin Peaks
+Medical Incident,224,Against Medical Advice,Sunset/Parkside
+Other,6,Code 2 Transport,Inner Sunset
+Medical Incident,31,Medical Examiner,Potrero Hill
+Odor (Strange / Unknown),9,Patient Declined Transport,Western Addition
+Medical Incident,72,Medical Examiner,Chinatown
+Smoke Investigation (Outside),3,Unable to Locate,Financial District/South Beach
+Smoke Investigation (Outside),4,Fire,Mission Bay
+Other,59,Fire,Pacific Heights
+Watercraft in Distress,18,Fire,Presidio
+Structure Fire,3,Code 2 Transport,None
+Citizen Assist / Service Call,7,Against Medical Advice,West of Twin Peaks
+Traffic Collision,13,Unable to Locate,Portola
+Other,4,Cancelled,Lakeshore
+Traffic Collision,15,Code 3 Transport,Inner Richmond
+Medical Incident,105,No Merit,Japantown
+Other,3,Code 2 Transport,Hayes Valley
+Medical Incident,6,Gone on Arrival,Presidio
+Citizen Assist / Service Call,1,Other,Pacific Heights
+Electrical Hazard,1,Fire,Japantown
+Electrical Hazard,1,Cancelled,Bayview Hunters Point
+Structure Fire,487,Fire,Inner Sunset
+Traffic Collision,10,Other,Presidio Heights
+Traffic Collision,15,SFPD,West of Twin Peaks
+Other,58,Fire,None
+HazMat,10,Fire,Mission
+Structure Fire,15,Code 2 Transport,Pacific Heights
+Industrial Accidents,4,Against Medical Advice,Financial District/South Beach
+Structure Fire,14,Code 3 Transport,Lone Mountain/USF
+Other,4,Patient Declined Transport,Mission
+Traffic Collision,3,SFPD,Portola
+Traffic Collision,15,Against Medical Advice,Visitacion Valley
+Structure Fire,10,Patient Declined Transport,Western Addition
+Other,9,Patient Declined Transport,West of Twin Peaks
+Alarms,6,Cancelled,Potrero Hill
+Outside Fire,3,Unable to Locate,Nob Hill
+HazMat,4,Fire,West of Twin Peaks
+Medical Incident,1,Duplicate,North Beach
+Traffic Collision,21,SFPD,Mission
+Medical Incident,2,SFPD,Presidio
+Medical Incident,1,Fire,Seacliff
+Electrical Hazard,33,Fire,Hayes Valley
+Citizen Assist / Service Call,5,Code 2 Transport,Twin Peaks
+Structure Fire,14,Cancelled,Marina
+Medical Incident,2,Fire,McLaren Park
+Fuel Spill,4,Fire,Oceanview/Merced/Ingleside
+Medical Incident,537,No Merit,Hayes Valley
+Other,7,Other,Potrero Hill
+Odor (Strange / Unknown),8,Fire,Hayes Valley
+Explosion,22,Fire,South of Market
+Elevator / Escalator Rescue,4,Fire,Excelsior
+Traffic Collision,39,Code 3 Transport,Outer Richmond
+Medical Incident,1818,Code 2 Transport,Inner Sunset
+Other,2,Against Medical Advice,Sunset/Parkside
+Traffic Collision,2,Cancelled,Twin Peaks
+Confined Space / Structure Collapse,14,Fire,Potrero Hill
+Gas Leak (Natural and LP Gases),21,Fire,Lone Mountain/USF
+Traffic Collision,17,Code 3 Transport,Castro/Upper Market
+Citizen Assist / Service Call,2,SFPD,Lone Mountain/USF
+Water Rescue,20,Cancelled,Financial District/South Beach
+Traffic Collision,135,Code 2 Transport,Oceanview/Merced/Ingleside
+Traffic Collision,13,No Merit,Mission Bay
+Medical Incident,61,Cancelled,Lakeshore
+Alarms,975,Fire,Mission Bay
+Outside Fire,16,Fire,Noe Valley
+Vehicle Fire,3,Code 3 Transport,Twin Peaks
+HazMat,3,No Merit,Western Addition
+Traffic Collision,8,Other,Marina
+Medical Incident,48,Fire,Pacific Heights
+Smoke Investigation (Outside),7,Fire,Oceanview/Merced/Ingleside
+Alarms,3,No Merit,Lincoln Park
+Outside Fire,595,Fire,Bayview Hunters Point
+Structure Fire,11,Cancelled,Presidio Heights
+Water Rescue,15,Patient Declined Transport,Bayview Hunters Point
+Outside Fire,1,Unable to Locate,Sunset/Parkside
+Structure Fire,10,SFPD,Haight Ashbury
+Alarms,4,Patient Declined Transport,Tenderloin
+Outside Fire,35,Fire,Treasure Island
+Gas Leak (Natural and LP Gases),60,Fire,South of Market
+Other,12,Unable to Locate,Presidio
+Citizen Assist / Service Call,9,Code 3 Transport,Tenderloin
+Citizen Assist / Service Call,1,SFPD,South of Market
+Other,1,No Merit,Inner Sunset
+Traffic Collision,23,Code 3 Transport,Lakeshore
+Citizen Assist / Service Call,1,Unable to Locate,Chinatown
+Medical Incident,301,No Merit,North Beach
+Medical Incident,2,SFPD,McLaren Park
+Traffic Collision,15,Against Medical Advice,Potrero Hill
+Medical Incident,1709,Code 2 Transport,Haight Ashbury
+Smoke Investigation (Outside),1,Cancelled,South of Market
+Alarms,18,No Merit,Mission
+Traffic Collision,14,Patient Declined Transport,None
+Electrical Hazard,10,Fire,North Beach
+Traffic Collision,22,Fire,Mission
+Vehicle Fire,5,Code 2 Transport,Inner Sunset
+Medical Incident,1,Fire,Presidio
+Medical Incident,2,SFPD,Seacliff
+Medical Incident,133,Cancelled,Outer Richmond
+Medical Incident,171,Code 3 Transport,Twin Peaks
+Medical Incident,404,Other,South of Market
+Medical Incident,65,No Merit,Glen Park
+Odor (Strange / Unknown),2,Fire,Glen Park
+Vehicle Fire,20,Fire,Pacific Heights
+Medical Incident,215,Cancelled,Castro/Upper Market
+Traffic Collision,2,Against Medical Advice,Chinatown
+Electrical Hazard,19,Fire,Glen Park
+Structure Fire,2,Cancelled,Sunset/Parkside
+Fuel Spill,4,Fire,Bernal Heights
+Medical Incident,65,Against Medical Advice,Noe Valley
+Structure Fire,2245,Fire,Tenderloin
+Traffic Collision,399,Code 2 Transport,Financial District/South Beach
+Other,13,Cancelled,Excelsior
+Traffic Collision,10,Fire,Portola
+Medical Incident,27,Other,Lone Mountain/USF
+Traffic Collision,12,Other,Nob Hill
+Medical Incident,279,Against Medical Advice,Bayview Hunters Point
+Train / Rail Fire,13,Cancelled,Tenderloin
+Other,4,Code 2 Transport,Glen Park
+Smoke Investigation (Outside),21,Fire,Financial District/South Beach
+Elevator / Escalator Rescue,1,No Merit,Marina
+Traffic Collision,27,Fire,West of Twin Peaks
+Medical Incident,29,Against Medical Advice,Treasure Island
+Alarms,6,Other,Excelsior
+Confined Space / Structure Collapse,6,Code 3 Transport,Japantown
+Outside Fire,1,No Merit,Inner Richmond
+Other,4,Code 2 Transport,North Beach
+Smoke Investigation (Outside),1,Cancelled,Lone Mountain/USF
+Fuel Spill,1,Fire,Golden Gate Park
+Alarms,1406,Fire,Western Addition
+Structure Fire,5,Cancelled,Nob Hill
+Smoke Investigation (Outside),23,Fire,Bernal Heights
+Traffic Collision,31,No Merit,Western Addition
+Citizen Assist / Service Call,161,Fire,South of Market
+Structure Fire,432,Fire,Haight Ashbury
+Medical Incident,25477,Code 2 Transport,Tenderloin
+Outside Fire,1,SFPD,Bayview Hunters Point
+Medical Incident,49,Cancelled,Inner Richmond
+Medical Incident,7,Gone on Arrival,Pacific Heights
+Traffic Collision,123,Code 2 Transport,Golden Gate Park
+Elevator / Escalator Rescue,2,Code 2 Transport,Bayview Hunters Point
+Citizen Assist / Service Call,2,No Merit,Russian Hill
+Citizen Assist / Service Call,10,Patient Declined Transport,Bayview Hunters Point
+Medical Incident,54,Medical Examiner,Lone Mountain/USF
+Other,3,Medical Examiner,Visitacion Valley
+Citizen Assist / Service Call,8,Cancelled,Financial District/South Beach
+Medical Incident,21,SFPD,Pacific Heights
+Smoke Investigation (Outside),17,Fire,Golden Gate Park
+Medical Incident,2,Unable to Locate,None
+Other,1,Against Medical Advice,Marina
+Citizen Assist / Service Call,9,Patient Declined Transport,Noe Valley
+Other,9,No Merit,Tenderloin
+Medical Incident,360,Medical Examiner,South of Market
+Citizen Assist / Service Call,45,Fire,Lone Mountain/USF
+Vehicle Fire,2,No Merit,Hayes Valley
+Traffic Collision,246,Code 2 Transport,Bernal Heights
+Fuel Spill,20,Fire,Financial District/South Beach
+High Angle Rescue,7,Code 2 Transport,North Beach
+Outside Fire,1,No Merit,Outer Richmond
+Traffic Collision,39,Other,Sunset/Parkside
+Other,2,Medical Examiner,Sunset/Parkside
+Electrical Hazard,1,Cancelled,South of Market
+Electrical Hazard,1,Other,Outer Richmond
+Smoke Investigation (Outside),5,Fire,North Beach
+Other,205,Fire,Mission
+Train / Rail Incident,14,Fire,West of Twin Peaks
+Structure Fire,11,Code 3 Transport,Noe Valley
+Smoke Investigation (Outside),6,Fire,Glen Park
+Medical Incident,4,Unable to Locate,Lincoln Park
+Medical Incident,101,Cancelled,Russian Hill
+Other,20,Code 2 Transport,Financial District/South Beach
+Odor (Strange / Unknown),9,Fire,Financial District/South Beach
+Medical Incident,13,Patient Declined Transport,McLaren Park
+Traffic Collision,9,Cancelled,Excelsior
+Traffic Collision,7,Other,Visitacion Valley
+Elevator / Escalator Rescue,4,Fire,Twin Peaks
+Medical Incident,1254,No Merit,Financial District/South Beach
+Outside Fire,2,Cancelled,Bernal Heights
+Other,13,Other,Nob Hill
+Other,37,Fire,Portola
+Traffic Collision,5,Unable to Locate,Pacific Heights
+Medical Incident,12,Patient Declined Transport,Seacliff
+Traffic Collision,19,Code 2 Transport,Glen Park
+Gas Leak (Natural and LP Gases),4,No Merit,Lakeshore
+Electrical Hazard,17,Fire,Financial District/South Beach
+Other,103,Fire,West of Twin Peaks
+Structure Fire,957,Fire,Western Addition
+Citizen Assist / Service Call,9,Against Medical Advice,Pacific Heights
+Outside Fire,1,Unable to Locate,Potrero Hill
+Traffic Collision,101,Code 2 Transport,North Beach
+Alarms,682,Fire,Haight Ashbury
+Water Rescue,18,No Merit,Lakeshore
+Traffic Collision,4,No Merit,Haight Ashbury
+Explosion,8,Fire,Bayview Hunters Point
+Electrical Hazard,47,Fire,Bernal Heights
+Other,1,No Merit,Western Addition
+Medical Incident,210,Patient Declined Transport,Pacific Heights
+Structure Fire,32,Other,Excelsior
+Medical Incident,1,Duplicate,Oceanview/Merced/Ingleside
+Structure Fire,20,No Merit,West of Twin Peaks
+Medical Incident,227,No Merit,Bernal Heights
+Outside Fire,2,Cancelled,Financial District/South Beach
+Odor (Strange / Unknown),4,Fire,Bernal Heights
+Gas Leak (Natural and LP Gases),39,Fire,Noe Valley
+Elevator / Escalator Rescue,1,No Merit,Potrero Hill
+Fuel Spill,4,Fire,North Beach
+Other,3,Code 2 Transport,Golden Gate Park
+Industrial Accidents,4,Medical Examiner,Financial District/South Beach
+Citizen Assist / Service Call,3,No Merit,Outer Richmond
+Outside Fire,20,Fire,Lone Mountain/USF
+Medical Incident,88,Cancelled,Outer Mission
+Vehicle Fire,3,Other,Bayview Hunters Point
+Other,3,Medical Examiner,Nob Hill
+Citizen Assist / Service Call,13,Code 2 Transport,Excelsior
+Citizen Assist / Service Call,4,Against Medical Advice,Seacliff
+Vehicle Fire,11,Patient Declined Transport,Presidio
+Citizen Assist / Service Call,2,No Merit,Castro/Upper Market
+Electrical Hazard,1,SFPD,Oceanview/Merced/Ingleside
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Sunset/Parkside
+Gas Leak (Natural and LP Gases),31,Fire,Treasure Island
+Electrical Hazard,9,Fire,Golden Gate Park
+Traffic Collision,13,Against Medical Advice,Marina
+Water Rescue,47,Fire,Bayview Hunters Point
+Traffic Collision,41,No Merit,Tenderloin
+Medical Incident,76,No Merit,Golden Gate Park
+Outside Fire,5,Patient Declined Transport,Treasure Island
+Outside Fire,198,Fire,South of Market
+Alarms,4156,Fire,Tenderloin
+Water Rescue,12,Unable to Locate,Sunset/Parkside
+Other,37,Code 2 Transport,Bernal Heights
+Water Rescue,11,Fire,Treasure Island
+Explosion,7,Fire,Noe Valley
+Gas Leak (Natural and LP Gases),108,Fire,Bayview Hunters Point
+Structure Fire,34,No Merit,Mission
+Citizen Assist / Service Call,1,SFPD,Bayview Hunters Point
+Medical Incident,4963,Code 2 Transport,Western Addition
+Citizen Assist / Service Call,1,Unable to Locate,Marina
+Other,2,Other,Sunset/Parkside
+Traffic Collision,218,Code 2 Transport,Hayes Valley
+Vehicle Fire,4,No Merit,Bernal Heights
+Structure Fire,11,Patient Declined Transport,Tenderloin
+Other,2,Gone on Arrival,Mission
+Citizen Assist / Service Call,1,Unable to Locate,Nob Hill
+Medical Incident,21,Other,Treasure Island
+Smoke Investigation (Outside),2,Fire,Japantown
+Other,1,Other,Presidio Heights
+Medical Incident,8,Duplicate,Financial District/South Beach
+Other,8,SFPD,West of Twin Peaks
+Traffic Collision,36,Code 3 Transport,Outer Mission
+Outside Fire,2,Code 2 Transport,Twin Peaks
+Smoke Investigation (Outside),3,Cancelled,Treasure Island
+Medical Incident,105,Other,Bayview Hunters Point
+Medical Incident,40,Patient Declined Transport,Presidio
+Traffic Collision,263,Patient Declined Transport,Mission
+Other,2,SFPD,Portola
+Medical Incident,76,Against Medical Advice,Lone Mountain/USF
+Traffic Collision,18,Against Medical Advice,Nob Hill
+Traffic Collision,3,Other,Chinatown
+Structure Fire,324,Fire,Mission Bay
+Medical Incident,20,Other,Noe Valley
+Medical Incident,583,Against Medical Advice,South of Market
+Traffic Collision,50,Patient Declined Transport,West of Twin Peaks
+Confined Space / Structure Collapse,7,Fire,Marina
+Other,13,SFPD,Mission
+Smoke Investigation (Outside),7,Fire,Hayes Valley
+Traffic Collision,25,Code 2 Transport,Japantown
+Traffic Collision,19,Patient Declined Transport,Portola
+Traffic Collision,23,Other,Potrero Hill
+Industrial Accidents,4,Code 3 Transport,Mission
+Smoke Investigation (Outside),1,Unable to Locate,Haight Ashbury
+Traffic Collision,57,Against Medical Advice,Sunset/Parkside
+Medical Incident,79,Unable to Locate,West of Twin Peaks
+Citizen Assist / Service Call,207,Fire,Bayview Hunters Point
+Other,1,Cancelled,Twin Peaks
+Outside Fire,1,Other,McLaren Park
+Traffic Collision,9,Code 3 Transport,Russian Hill
+Alarms,3,Cancelled,Marina
+Alarms,6,Other,Twin Peaks
+Fuel Spill,3,Cancelled,Bayview Hunters Point
+Alarms,4,Code 3 Transport,South of Market
+Outside Fire,2,SFPD,South of Market
+Elevator / Escalator Rescue,1,Cancelled,West of Twin Peaks
+Alarms,3,SFPD,Tenderloin
+Medical Incident,22,Unable to Locate,Portola
+Other,4,No Merit,Mission Bay
+Other,20,Code 2 Transport,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,2,Code 3 Transport,Western Addition
+Medical Incident,57,Medical Examiner,Noe Valley
+Citizen Assist / Service Call,3,Patient Declined Transport,South of Market
+Citizen Assist / Service Call,17,Fire,Treasure Island
+Alarms,14,Code 2 Transport,Pacific Heights
+Gas Leak (Natural and LP Gases),3,No Merit,Castro/Upper Market
+Electrical Hazard,59,Fire,Oceanview/Merced/Ingleside
+Gas Leak (Natural and LP Gases),4,Code 2 Transport,Excelsior
+"Extrication / Entrapped (Machinery, Vehicle)",2,Fire,Castro/Upper Market
+Gas Leak (Natural and LP Gases),8,No Merit,Outer Richmond
+Medical Incident,2,CHP,Outer Richmond
+Citizen Assist / Service Call,4,Patient Declined Transport,Lone Mountain/USF
+Medical Incident,213,Medical Examiner,Bayview Hunters Point
+Medical Incident,94,No Merit,Oceanview/Merced/Ingleside
+Medical Incident,2279,Code 2 Transport,Mission Bay
+Fuel Spill,3,Fire,Hayes Valley
+Elevator / Escalator Rescue,3,Cancelled,Mission
+Odor (Strange / Unknown),4,Fire,Oceanview/Merced/Ingleside
+Other,3,Fire,Lincoln Park
+Vehicle Fire,4,No Merit,Financial District/South Beach
+Other,2,Medical Examiner,Presidio Heights
+Medical Incident,20,Medical Examiner,Treasure Island
+Citizen Assist / Service Call,98,Fire,Noe Valley
+Assist Police,5,Other,Bayview Hunters Point
+Medical Incident,502,Code 3 Transport,Excelsior
+HazMat,7,No Merit,Tenderloin
+Traffic Collision,4,Unable to Locate,Presidio
+Water Rescue,23,No Merit,Outer Richmond
+Alarms,880,Fire,Inner Sunset
+Medical Incident,488,Unable to Locate,Mission
+Citizen Assist / Service Call,3,Cancelled,Hayes Valley
+Traffic Collision,7,No Merit,Inner Sunset
+Other,1,Against Medical Advice,South of Market
+Outside Fire,2,No Merit,Twin Peaks
+Citizen Assist / Service Call,9,Code 2 Transport,Lakeshore
+Fuel Spill,6,Fire,Inner Sunset
+Explosion,7,Fire,Sunset/Parkside
+Medical Incident,6,Gone on Arrival,Portola
+Industrial Accidents,14,Code 2 Transport,Bayview Hunters Point
+Medical Incident,113,Medical Examiner,Marina
+Elevator / Escalator Rescue,5,Fire,Outer Mission
+Industrial Accidents,4,Code 2 Transport,Treasure Island
+Medical Incident,15,Gone on Arrival,West of Twin Peaks
+Vehicle Fire,7,Code 2 Transport,Bernal Heights
+Traffic Collision,47,No Merit,Hayes Valley
+Citizen Assist / Service Call,2,Cancelled,Inner Sunset
+Alarms,1120,Fire,Hayes Valley
+Medical Incident,137,SFPD,Mission
+Citizen Assist / Service Call,114,Fire,Marina
+Other,11,Other,Treasure Island
+Medical Incident,8,Other,Presidio Heights
+Medical Incident,26,SFPD,West of Twin Peaks
+Medical Incident,199,Code 3 Transport,Inner Richmond
+Medical Incident,106,Gone on Arrival,Mission
+Alarms,12,Cancelled,Bayview Hunters Point
+Alarms,318,Fire,Japantown
+Water Rescue,102,Fire,Sunset/Parkside
+Outside Fire,8,Unable to Locate,South of Market
+Medical Incident,7,SFPD,Portola
+Structure Fire,316,Fire,Oceanview/Merced/Ingleside
+Medical Incident,70,Against Medical Advice,Visitacion Valley
+Other,21,Other,Bayview Hunters Point
+Gas Leak (Natural and LP Gases),57,Fire,Sunset/Parkside
+Other,3,Medical Examiner,Bayview Hunters Point
+Medical Incident,1,Duplicate,Western Addition
+Other,3,Code 2 Transport,Mission Bay
+Vehicle Fire,14,Fire,Portola
+Smoke Investigation (Outside),1,Unable to Locate,Glen Park
+Medical Incident,2,Fire,Lincoln Park
+Elevator / Escalator Rescue,11,No Merit,South of Market
+Other,3,Unable to Locate,Mission
+Vehicle Fire,11,Fire,West of Twin Peaks
+Elevator / Escalator Rescue,19,Fire,Russian Hill
+Medical Incident,33,Medical Examiner,Presidio Heights
+Explosion,4,Fire,Nob Hill
+Smoke Investigation (Outside),18,Fire,Inner Sunset
+Medical Incident,280,Code 3 Transport,Castro/Upper Market
+Administrative,2,Other,Pacific Heights
+Gas Leak (Natural and LP Gases),79,Fire,Nob Hill
+Water Rescue,49,Code 2 Transport,Outer Richmond
+Structure Fire,15,Against Medical Advice,Russian Hill
+Outside Fire,144,Fire,Potrero Hill
+Medical Incident,437,Code 3 Transport,Outer Richmond
+Vehicle Fire,73,Fire,Mission
+Traffic Collision,64,Code 2 Transport,Inner Sunset
+Structure Fire,24,Unable to Locate,Western Addition
+Medical Incident,23,Cancelled,Twin Peaks
+Electrical Hazard,9,Fire,Mission Bay
+Gas Leak (Natural and LP Gases),2,No Merit,Excelsior
+Traffic Collision,2,Fire,Pacific Heights
+Water Rescue,37,Fire,Nob Hill
+Medical Incident,38,Other,Marina
+Outside Fire,53,Fire,Chinatown
+Citizen Assist / Service Call,53,Fire,Presidio Heights
+Gas Leak (Natural and LP Gases),3,Code 2 Transport,Outer Richmond
+Medical Incident,247,No Merit,Mission Bay
+Medical Incident,1738,Code 2 Transport,Oceanview/Merced/Ingleside
+Traffic Collision,5,Cancelled,Lakeshore
+Vehicle Fire,9,Code 2 Transport,Financial District/South Beach
+Outside Fire,1,Cancelled,Western Addition
+Traffic Collision,60,Against Medical Advice,Bayview Hunters Point
+Citizen Assist / Service Call,9,Code 2 Transport,Inner Richmond
+Citizen Assist / Service Call,165,Fire,Sunset/Parkside
+Citizen Assist / Service Call,6,Cancelled,Tenderloin
+Citizen Assist / Service Call,3,Medical Examiner,Mission
+HazMat,3,No Merit,Hayes Valley
+Water Rescue,117,Fire,Marina
+Medical Incident,66,Other,Nob Hill
+Medical Incident,20,Fire,Portola
+Other,12,No Merit,Financial District/South Beach
+Vehicle Fire,3,Fire,Lincoln Park
+Electrical Hazard,1,No Merit,West of Twin Peaks
+Fuel Spill,9,Fire,Tenderloin
+Structure Fire,498,Fire,Bernal Heights
+Electrical Hazard,1,Cancelled,Visitacion Valley
+Medical Incident,82,Fire,West of Twin Peaks
+Traffic Collision,40,Against Medical Advice,Treasure Island
+Citizen Assist / Service Call,3,Unable to Locate,Bayview Hunters Point
+Smoke Investigation (Outside),15,Fire,Haight Ashbury
+Gas Leak (Natural and LP Gases),72,Fire,Marina
+Odor (Strange / Unknown),1,No Merit,West of Twin Peaks
+Alarms,3,No Merit,Presidio
+Odor (Strange / Unknown),5,No Merit,Mission
+Alarms,3,Other,Russian Hill
+Medical Incident,5,Patient Declined Transport,None
+Traffic Collision,13,Fire,Presidio
+Medical Incident,181,Fire,Mission
+Explosion,5,Fire,Marina
+Medical Incident,183,Code 3 Transport,Lakeshore
+Traffic Collision,2,No Merit,North Beach
+Medical Incident,236,Medical Examiner,Sunset/Parkside
+Electrical Hazard,6,No Merit,Mission
+Traffic Collision,2,SFPD,McLaren Park
+Traffic Collision,71,Code 2 Transport,Haight Ashbury
+Alarms,1022,Fire,North Beach
+Medical Incident,57,Against Medical Advice,Potrero Hill
+Traffic Collision,9,Cancelled,Castro/Upper Market
+Water Rescue,15,Code 3 Transport,Financial District/South Beach
+Medical Incident,121,Against Medical Advice,Chinatown
+Structure Fire,78,Fire,Golden Gate Park
+Traffic Collision,11,Against Medical Advice,Noe Valley
+Other,11,Cancelled,Russian Hill
+Medical Incident,9158,Code 2 Transport,Financial District/South Beach
+Traffic Collision,13,Cancelled,Outer Richmond
+Traffic Collision,66,Other,South of Market
+Traffic Collision,10,No Merit,Glen Park
+Traffic Collision,4,Code 3 Transport,Twin Peaks
+Alarms,203,Fire,Glen Park
+Traffic Collision,18,Medical Examiner,South of Market
+Assist Police,2,Fire,Mission
+Citizen Assist / Service Call,5,Patient Declined Transport,Chinatown
+Fuel Spill,4,Fire,Haight Ashbury
+Elevator / Escalator Rescue,2,Against Medical Advice,Financial District/South Beach
+Citizen Assist / Service Call,14,Code 2 Transport,Outer Richmond
+Gas Leak (Natural and LP Gases),32,Fire,Presidio Heights
+Traffic Collision,8,SFPD,Pacific Heights
+Smoke Investigation (Outside),12,Fire,Tenderloin
+Citizen Assist / Service Call,2,No Merit,Excelsior
+Fuel Spill,1,Cancelled,Nob Hill
+Citizen Assist / Service Call,14,Code 2 Transport,Castro/Upper Market
+Citizen Assist / Service Call,3,Cancelled,Haight Ashbury
+Other,13,Code 2 Transport,Western Addition
+Structure Fire,53,Other,Castro/Upper Market
+Medical Incident,44,Other,Sunset/Parkside
+Structure Fire,3,Code 2 Transport,West of Twin Peaks
+Medical Incident,3,Duplicate,Mission Bay
+Outside Fire,2,SFPD,Potrero Hill
+Citizen Assist / Service Call,1,Patient Declined Transport,Potrero Hill
+Medical Incident,2078,Code 2 Transport,Bernal Heights
+Citizen Assist / Service Call,128,Fire,Nob Hill
+Structure Fire,2,Cancelled,South of Market
+Other,1,No Merit,Bernal Heights
+Electrical Hazard,13,Fire,Western Addition
+Alarms,6,Other,Outer Mission
+Odor (Strange / Unknown),10,Fire,Western Addition
+Structure Fire,47,Code 2 Transport,Mission
+HazMat,4,Fire,Pacific Heights
+Vehicle Fire,8,Other,Presidio Heights
+"Extrication / Entrapped (Machinery, Vehicle)",7,Code 2 Transport,Bayview Hunters Point
+Medical Incident,474,No Merit,Western Addition
+Smoke Investigation (Outside),1,Unable to Locate,Hayes Valley
+Other,6,Patient Declined Transport,Pacific Heights
+Citizen Assist / Service Call,1,Other,Mission
+Other,3,Cancelled,Outer Mission
+Outside Fire,90,Fire,Visitacion Valley
+Medical Incident,184,Medical Examiner,Nob Hill
+Traffic Collision,361,Code 2 Transport,Tenderloin
+Structure Fire,1375,Fire,Financial District/South Beach
+Medical Incident,2,SFPD,Lincoln Park
+Medical Incident,570,Code 2 Transport,Golden Gate Park
+Traffic Collision,12,Cancelled,Inner Richmond
+Traffic Collision,2,Gone on Arrival,Pacific Heights
+Assist Police,2,Fire,West of Twin Peaks
+Vehicle Fire,35,Fire,Sunset/Parkside
+Smoke Investigation (Outside),1,Unable to Locate,Outer Mission
+Smoke Investigation (Outside),1,No Merit,Potrero Hill
+Vehicle Fire,12,Unable to Locate,Treasure Island
+Vehicle Fire,7,Cancelled,Tenderloin
+Traffic Collision,2,Other,Seacliff
+Structure Fire,282,Fire,Lakeshore
+Medical Incident,191,Patient Declined Transport,Visitacion Valley
+Structure Fire,14,Code 3 Transport,Mission
+"Extrication / Entrapped (Machinery, Vehicle)",6,Code 3 Transport,Bayview Hunters Point
+Citizen Assist / Service Call,1,Fire,Lincoln Park
+Alarms,6,Duplicate,South of Market
+Other,43,Fire,Noe Valley
+Vehicle Fire,6,Unable to Locate,Bayview Hunters Point
+Medical Incident,32,Gone on Arrival,Nob Hill
+Traffic Collision,13,SFPD,South of Market
+Gas Leak (Natural and LP Gases),7,No Merit,Western Addition
+Traffic Collision,93,Code 3 Transport,Tenderloin
+Medical Incident,2,CHP,Western Addition
+Medical Incident,57,Code 3 Transport,Golden Gate Park
+Other,10,Cancelled,Hayes Valley
+Medical Incident,8,Medical Examiner,Lincoln Park
+Other,2,Cancelled,Japantown
+Other,177,Fire,Bayview Hunters Point
+Citizen Assist / Service Call,3,Cancelled,Twin Peaks
+Citizen Assist / Service Call,2,Code 3 Transport,Outer Richmond
+Alarms,5,Code 2 Transport,Chinatown
+Traffic Collision,16,Gone on Arrival,South of Market
+Medical Incident,52,SFPD,Nob Hill
+Citizen Assist / Service Call,2,No Merit,Mission Bay
+Citizen Assist / Service Call,15,Code 2 Transport,Oceanview/Merced/Ingleside
+Water Rescue,13,Other,Sunset/Parkside
+Alarms,3,Other,Japantown
+Fuel Spill,4,Fire,Twin Peaks
+Other,4,Code 3 Transport,Western Addition
+Alarms,4,Code 2 Transport,Potrero Hill
+Medical Incident,203,Code 3 Transport,Bernal Heights
+HazMat,10,Fire,South of Market
+Other,1,Unable to Locate,Sunset/Parkside
+Medical Incident,26,Fire,Presidio Heights
+Other,64,Fire,Treasure Island
+Other,7,Patient Declined Transport,South of Market
+Medical Incident,7,Gone on Arrival,Sunset/Parkside
+Gas Leak (Natural and LP Gases),5,Code 2 Transport,Financial District/South Beach
+Elevator / Escalator Rescue,20,Fire,North Beach
+Medical Incident,2067,Code 2 Transport,Lakeshore
+Electrical Hazard,1,Unable to Locate,Outer Richmond
+Water Rescue,31,Code 3 Transport,Lakeshore
+Traffic Collision,16,Code 3 Transport,Haight Ashbury
+Traffic Collision,33,Cancelled,Oceanview/Merced/Ingleside
+Gas Leak (Natural and LP Gases),167,Fire,Mission
+Water Rescue,156,Code 2 Transport,Financial District/South Beach
+Citizen Assist / Service Call,3,SFPD,Mission
+Structure Fire,10,No Merit,Bayview Hunters Point
+Explosion,1,Fire,West of Twin Peaks
+Elevator / Escalator Rescue,1,Fire,Glen Park
+Medical Incident,493,Code 3 Transport,Financial District/South Beach
+Medical Incident,61,Cancelled,Inner Sunset
+Vehicle Fire,14,Fire,Nob Hill
+Outside Fire,5,Fire,None
+Traffic Collision,18,Code 2 Transport,Twin Peaks
+Traffic Collision,2,CHP,North Beach
+Structure Fire,2,Cancelled,Seacliff
+Structure Fire,2,No Merit,Noe Valley
+Outside Fire,1,Other,Chinatown
+Water Rescue,6,Fire,Portola
+Medical Incident,28,Fire,Marina
+Smoke Investigation (Outside),12,Fire,Twin Peaks
+Traffic Collision,2,Other,Pacific Heights
+Gas Leak (Natural and LP Gases),43,Fire,West of Twin Peaks
+Other,1,No Merit,Lakeshore
+Structure Fire,17,Code 2 Transport,Presidio Heights
+Medical Incident,25,SFPD,Sunset/Parkside
+Outside Fire,3,Other,Potrero Hill
+Gas Leak (Natural and LP Gases),11,Fire,Portola
+Medical Incident,4,SFPD,Presidio Heights
+Train / Rail Incident,8,Code 3 Transport,Mission Bay
+Smoke Investigation (Outside),1,Other,Haight Ashbury
+Odor (Strange / Unknown),5,Fire,Excelsior
+Other,1,SFPD,Treasure Island
+Traffic Collision,67,Cancelled,Financial District/South Beach
+Medical Incident,3362,Code 2 Transport,Castro/Upper Market
+Medical Incident,132,No Merit,Excelsior
+Structure Fire,15,Code 2 Transport,Sunset/Parkside
+Structure Fire,401,Fire,Inner Richmond
+Medical Incident,41,Other,West of Twin Peaks
+Water Rescue,20,Code 3 Transport,Outer Richmond
+Traffic Collision,12,Patient Declined Transport,Noe Valley
+Medical Incident,243,Patient Declined Transport,Chinatown
+Medical Incident,3159,Code 2 Transport,Outer Richmond
+Traffic Collision,17,Code 3 Transport,Inner Sunset
+Electrical Hazard,88,Fire,Excelsior
+Citizen Assist / Service Call,4,Code 2 Transport,Bernal Heights
+Medical Incident,222,Patient Declined Transport,Potrero Hill
+Medical Incident,88,Fire,Nob Hill
+Traffic Collision,2,Fire,Lone Mountain/USF
+Medical Incident,17,Other,Portola
+Elevator / Escalator Rescue,2,Patient Declined Transport,Bernal Heights
+Electrical Hazard,1,No Merit,Nob Hill
+Elevator / Escalator Rescue,5,No Merit,Pacific Heights
+Other,10,SFPD,Bayview Hunters Point
+Medical Incident,82,Cancelled,Haight Ashbury
+Medical Incident,245,Code 3 Transport,Oceanview/Merced/Ingleside
+Medical Incident,2,Against Medical Advice,None
+Citizen Assist / Service Call,3,Other,Sunset/Parkside
+Water Rescue,13,No Merit,Mission Bay
+Other,1,Unable to Locate,Marina
+Alarms,13,No Merit,South of Market
+Outside Fire,12,No Merit,Tenderloin
+Smoke Investigation (Outside),10,Cancelled,Mission
+Vehicle Fire,10,Fire,Marina
+Water Rescue,59,Fire,Lincoln Park
+Traffic Collision,58,Patient Declined Transport,Treasure Island
+Traffic Collision,8,Fire,South of Market
+Other,7,Cancelled,North Beach
+Other,5,SFPD,Noe Valley
+Assist Police,2,Fire,Sunset/Parkside
+Alarms,3,Other,North Beach
+Gas Leak (Natural and LP Gases),3,Fire,Lincoln Park
+Medical Incident,5,Gone on Arrival,Presidio Heights
+Other,2,No Merit,Outer Richmond
+Other,5,Cancelled,Glen Park
+Explosion,6,No Merit,Mission Bay
+Traffic Collision,8,No Merit,Russian Hill
+Medical Incident,244,Other,Mission
+Other,6,No Merit,Castro/Upper Market
+Alarms,771,Fire,Russian Hill
+Traffic Collision,145,Patient Declined Transport,Bayview Hunters Point
+Other,12,Code 2 Transport,Excelsior
+Medical Incident,291,Medical Examiner,Mission
+Electrical Hazard,2,No Merit,Sunset/Parkside
+Structure Fire,845,Fire,Outer Richmond
+Citizen Assist / Service Call,45,Fire,Portola
+Elevator / Escalator Rescue,10,Fire,Japantown
+Elevator / Escalator Rescue,2,Cancelled,Bayview Hunters Point
+Medical Incident,1633,Code 2 Transport,Inner Richmond
+Medical Incident,110,Fire,Sunset/Parkside
+Traffic Collision,5,Cancelled,Golden Gate Park
+Structure Fire,635,Fire,Castro/Upper Market
+Medical Incident,25,Unable to Locate,Treasure Island
+Medical Incident,1189,Cancelled,Tenderloin
+Other,6,Against Medical Advice,Pacific Heights
+Medical Incident,180,Unable to Locate,Bayview Hunters Point
+Citizen Assist / Service Call,144,Fire,West of Twin Peaks
+Medical Incident,21,SFPD,Marina
+Structure Fire,18,Code 2 Transport,Nob Hill
+Outside Fire,1,Unable to Locate,Pacific Heights
+Traffic Collision,6,Unable to Locate,Chinatown
+Medical Incident,15,Gone on Arrival,Marina
+Medical Incident,24,Unable to Locate,Noe Valley
+Outside Fire,1,SFPD,None
+Industrial Accidents,6,Code 3 Transport,Bayview Hunters Point
+Water Rescue,5,Medical Examiner,Marina
+Medical Incident,37,Medical Examiner,Portola
+Outside Fire,1,Other,Visitacion Valley
+Traffic Collision,30,Cancelled,Bernal Heights
+Citizen Assist / Service Call,211,Fire,Mission
+Other,2,No Merit,Inner Richmond
+Vehicle Fire,8,Fire,Presidio Heights
+Elevator / Escalator Rescue,6,Patient Declined Transport,Financial District/South Beach
+Alarms,231,Fire,Outer Mission
+Citizen Assist / Service Call,3,Against Medical Advice,Chinatown
+Traffic Collision,13,No Merit,Outer Mission
+Medical Incident,108,Medical Examiner,West of Twin Peaks
+Traffic Collision,13,Unable to Locate,Potrero Hill
+Elevator / Escalator Rescue,35,Fire,Hayes Valley
+Citizen Assist / Service Call,1,No Merit,Bernal Heights
+Traffic Collision,2,SFPD,Chinatown
+Smoke Investigation (Outside),6,No Merit,South of Market
+Alarms,3,Cancelled,Mission
+Medical Incident,15,SFPD,Noe Valley
+Medical Incident,49,Gone on Arrival,Bayview Hunters Point
+Fuel Spill,9,Fire,Outer Mission
+Medical Incident,135,Code 3 Transport,Mission Bay
+Citizen Assist / Service Call,2,Patient Declined Transport,Pacific Heights
+Gas Leak (Natural and LP Gases),1,Unable to Locate,Mission
+Traffic Collision,21,Patient Declined Transport,Presidio Heights
+Medical Incident,148,Cancelled,North Beach
+Water Rescue,26,Code 2 Transport,Mission Bay
+Elevator / Escalator Rescue,8,Fire,Inner Sunset
+Confined Space / Structure Collapse,7,Other,Sunset/Parkside
+Odor (Strange / Unknown),4,Fire,Castro/Upper Market
+Other,12,Other,Mission
+Citizen Assist / Service Call,1,Cancelled,Outer Mission
+Electrical Hazard,165,Fire,Outer Richmond
+Medical Incident,623,No Merit,Castro/Upper Market
+Structure Fire,4,No Merit,Sunset/Parkside
+Medical Incident,7,Against Medical Advice,Seacliff
+Medical Incident,3246,Code 2 Transport,Excelsior
+Smoke Investigation (Outside),37,Fire,Russian Hill
+Odor (Strange / Unknown),8,Fire,Outer Richmond
+Medical Incident,287,No Merit,Outer Richmond
+Electrical Hazard,37,Fire,Castro/Upper Market
+Medical Incident,13,Against Medical Advice,McLaren Park
+Confined Space / Structure Collapse,7,Code 2 Transport,Bernal Heights
+Medical Incident,3,Gone on Arrival,Treasure Island
+Fuel Spill,2,Against Medical Advice,Oceanview/Merced/Ingleside
+Medical Incident,24,Cancelled,Glen Park
+HazMat,3,Fire,Chinatown
+Other,6,Code 2 Transport,Outer Richmond
+Citizen Assist / Service Call,1,No Merit,Golden Gate Park
+Other,1,SFPD,Presidio Heights
+Traffic Collision,110,Code 2 Transport,Russian Hill
+Medical Incident,4,SFPD,Treasure Island
+Other,23,Code 2 Transport,Castro/Upper Market
+Structure Fire,10,Other,Western Addition
+Other,2,Other,West of Twin Peaks
+Gas Leak (Natural and LP Gases),1,Unable to Locate,West of Twin Peaks
+Medical Incident,8,Gone on Arrival,Noe Valley
+Medical Incident,97,SFPD,Bayview Hunters Point
+Outside Fire,2,Code 2 Transport,Tenderloin
+Alarms,8,Code 2 Transport,South of Market
+Other,4,Cancelled,Haight Ashbury
+Citizen Assist / Service Call,26,Code 2 Transport,Western Addition
+Medical Incident,33,Unable to Locate,Marina
+Other,78,Fire,Nob Hill
+Other,1,Other,Portola
+Traffic Collision,13,Fire,Visitacion Valley
+Alarms,3,No Merit,Visitacion Valley
+Fuel Spill,8,Fire,Russian Hill
+Vehicle Fire,152,Fire,Bayview Hunters Point
+Traffic Collision,21,Cancelled,Western Addition
+Train / Rail Incident,7,Medical Examiner,Mission
+Other,1,Unable to Locate,Noe Valley
+Structure Fire,13,No Merit,Nob Hill
+Electrical Hazard,63,Fire,Inner Richmond
+Medical Incident,152,No Merit,Inner Richmond
+Traffic Collision,38,Patient Declined Transport,Marina
+Traffic Collision,7,Code 3 Transport,Japantown
+Structure Fire,471,Fire,Excelsior
+Smoke Investigation (Outside),4,Fire,Outer Mission
+Odor (Strange / Unknown),3,Fire,Inner Richmond
+Vehicle Fire,42,Fire,Treasure Island
+Confined Space / Structure Collapse,6,Fire,West of Twin Peaks
+Medical Incident,20,Unable to Locate,Presidio Heights
+Other,7,Code 2 Transport,Inner Richmond
+Other,106,Fire,Sunset/Parkside
+Traffic Collision,8,Code 3 Transport,Hayes Valley
+Outside Fire,3,No Merit,North Beach
+Other,31,Cancelled,Tenderloin
+Other,4,Medical Examiner,Mission
+Outside Fire,19,Fire,Presidio
+Citizen Assist / Service Call,2,No Merit,Financial District/South Beach
+Traffic Collision,219,Code 2 Transport,Outer Mission
+Vehicle Fire,9,Fire,Noe Valley
+Outside Fire,2,Cancelled,Outer Richmond
+Outside Fire,1,Other,South of Market
+Outside Fire,1,No Merit,Glen Park
+Alarms,18,Other,Tenderloin
+Water Rescue,25,Patient Declined Transport,Presidio
+Water Rescue,13,Other,Bayview Hunters Point
+Outside Fire,1,Cancelled,Castro/Upper Market
+Medical Incident,72,Against Medical Advice,Pacific Heights
+Other,3,Unable to Locate,Bayview Hunters Point
+Traffic Collision,13,Against Medical Advice,Portola
+Other,4,SFPD,Nob Hill
+Elevator / Escalator Rescue,181,Fire,Tenderloin
+Electrical Hazard,1,No Merit,Bayview Hunters Point
+Traffic Collision,4,SFPD,Visitacion Valley
+Gas Leak (Natural and LP Gases),4,Code 2 Transport,Western Addition
+Medical Incident,106,Fire,Bayview Hunters Point
+Medical Incident,43,Cancelled,Japantown
+Odor (Strange / Unknown),6,No Merit,Treasure Island
+Fuel Spill,2,Patient Declined Transport,Inner Richmond
+Other,25,Fire,Presidio Heights
+Traffic Collision,34,Against Medical Advice,West of Twin Peaks
+Medical Incident,66,Unable to Locate,Sunset/Parkside
+Medical Incident,1718,Patient Declined Transport,South of Market
+Medical Incident,23,Fire,Treasure Island
+Medical Incident,496,Code 3 Transport,Western Addition
+Citizen Assist / Service Call,7,No Merit,Oceanview/Merced/Ingleside
+Citizen Assist / Service Call,8,Code 2 Transport,Mission Bay
+Other,1,Patient Declined Transport,Visitacion Valley
+Traffic Collision,2,Fire,Potrero Hill
+Medical Incident,193,Patient Declined Transport,Lone Mountain/USF
+Traffic Collision,69,Patient Declined Transport,Nob Hill
+Elevator / Escalator Rescue,1,Unable to Locate,Hayes Valley
+HazMat,3,Fire,Visitacion Valley
+Traffic Collision,82,Against Medical Advice,Mission
+Medical Incident,37,Against Medical Advice,Presidio
+Electrical Hazard,1,No Merit,Noe Valley
+Other,1,Gone on Arrival,Nob Hill
+Medical Incident,1,Duplicate,Outer Richmond
+Gas Leak (Natural and LP Gases),4,Patient Declined Transport,Pacific Heights
+Other,9,Code 3 Transport,Golden Gate Park
+Structure Fire,12,No Merit,Marina
+Medical Incident,170,Cancelled,Hayes Valley
+Medical Incident,1,Duplicate,Castro/Upper Market
+Medical Incident,38,Fire,Noe Valley
+Structure Fire,12,Against Medical Advice,Tenderloin
+Alarms,6,No Merit,Chinatown
+Outside Fire,34,Fire,Pacific Heights
+Traffic Collision,10,Fire,Chinatown
+Gas Leak (Natural and LP Gases),5,No Merit,Bernal Heights
+Structure Fire,31,Code 2 Transport,Bayview Hunters Point
+Other,66,Fire,Marina
+Vehicle Fire,3,Cancelled,North Beach
+Traffic Collision,4,No Merit,Twin Peaks
+Traffic Collision,2,Code 3 Transport,Glen Park
+Water Rescue,7,Patient Declined Transport,Seacliff
+Medical Incident,144,Unable to Locate,Nob Hill
+Traffic Collision,5,Unable to Locate,Lone Mountain/USF
+Alarms,350,Fire,Twin Peaks
+Electrical Hazard,1,Fire,Lakeshore
+Outside Fire,18,Fire,Seacliff
+Medical Incident,10,CHP,Financial District/South Beach
+Elevator / Escalator Rescue,1,Fire,Haight Ashbury
+Vehicle Fire,2,No Merit,Outer Richmond
+Citizen Assist / Service Call,2,Against Medical Advice,Lone Mountain/USF
+Elevator / Escalator Rescue,3,Cancelled,Nob Hill
+Outside Fire,41,Fire,McLaren Park
+Medical Incident,109,No Merit,Lakeshore
+Citizen Assist / Service Call,3,Other,Bayview Hunters Point
+Traffic Collision,7,Code 3 Transport,North Beach
+Outside Fire,4,No Merit,Hayes Valley
+Other,1,SFPD,Sunset/Parkside
+Train / Rail Incident,14,Code 3 Transport,Financial District/South Beach
+Vehicle Fire,6,No Merit,Castro/Upper Market
+Traffic Collision,6,Cancelled,Mission Bay
+Vehicle Fire,4,Code 2 Transport,Excelsior
+Odor (Strange / Unknown),1,Fire,Lakeshore
+Other,3,Code 2 Transport,Lakeshore
+Outside Fire,1,No Merit,Japantown
+Assist Police,1,Fire,Bayview Hunters Point
+Other,2,Cancelled,Inner Sunset
+Traffic Collision,62,Unable to Locate,South of Market
+Water Rescue,14,Cancelled,Russian Hill
+Traffic Collision,83,Patient Declined Transport,Sunset/Parkside

@@ -37,7 +37,7 @@
   <nav class="navbar is-danger" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item" href="index.html">
+        <a class="navbar-item is-active" href="index.html">
           <span class="icon"><i class="fas fa-home"></i></span>
           <span>Home</span>
         </a>
@@ -51,7 +51,7 @@
       <div id="main-menu" class="navbar-menu has-text-weight-medium">
         <!-- Left navbar items -->
         <div class="navbar-start">
-          <a class="navbar-item is-active" href="data.html" title="Data">
+          <a class="navbar-item" href="data.html" title="Data">
             <span class="icon"><i class="fas fa-table"></i></span>
             <span>Data</span>
           </a>
@@ -95,70 +95,21 @@
     <div class="container">
       <!-- Begin page content -->
       <div class="content">
-        <h1 class="title" id="data">Data</h1>
+        <h1 class="title">
+          Node Link
+        </h1>
 
         <hr>
 
-        <h2>Fire Department Calls for Service</h2>
 
-        <p>The <strong>Fire Department Calls-For-Service</strong> dataset records all fire units responses to calls.
-          They track all relevant time intervals,
-          location information, call type, and disposition.
-        </p>
-
-        <div class="tile is-ancestor">
-          <div class="tile is-parent is-8">
-            <div class="tile is-child box">
-              <p class="subtitle">The data was last <strong>updated and accessed on April 18, 2020</strong></p>
-              <hr>
-              <p class="subtitle">Link to Dataset:</p>
-              <p class="buttons"><a class="button is-medium is-danger is-light is-outlined" href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">
-                  <span>Fire Department Calls for Service Dataset</span>
-                </a>
-              </p>
-            </div>
-          </div>
-
-          <div class="tile is-4 is-vertical is-parent">
-            <div class="tile is-child box notification is-danger">
-              <p class="subtitle">Rows</p>
-              <p class="title">5.26M</p>
-            </div>
-            <div class="tile is-child box notification is-danger">
-              <p class="subtitle">Columns</p>
-              <p class="title">34</p>
-            </div>
-          </div>
-        </div>
-
-        <blockquote>
-          <p>
-            <strong>License:</strong> <a href="https://opendatacommons.org/licenses/pddl/1.0/">
-              Open Data Commons Public Domain Dedication and License</a></p>
-        </blockquote>
-
-        <hr>
-
-        <h2>Processing</h2>
-
-        <p>This assignment necessitated forming a hierarcy, which involved some wrangling of the data.</p>
-
-        <ul>
-          <li>Filter to only include calls in <strong>2019</strong></li>
-          <li>Group by <strong>Call Type</strong> > <strong>Neighborhoods</strong> > <strong>Call Final Disposition</strong></li>
-          <li>Roll-Up by <strong>Incident Count</strong></li>
-          <li>Sort by <strong>Call Type</strong></li>
-        </ul>
+        <!-- Include d3.js v5 -->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!-- Include d3.js modules -->
+        <script src="https://d3js.org/d3-array.v2.min.js"></script>
+        <!-- Include custom javascript -->
+        <script src="wrangling.js"></script>
 
 
-        <p>The wrangling reduced the dataset to <strong>2,542 rows</strong>, and included these columns: </p>
-        <ul>
-          <li><strong>Call Type:</strong> The specific type of call made.</li>
-          <li><strong>Incident Number:</strong> A unique 8-digit number assigned by DEM to this Fire incident.</li>
-          <li><strong>Call Final Disposition:</strong> Disposition of the call (Code). For example TH2: Transport to Hospital - Code 2,
-            FIR: Resolved by Fire Department</li>
-          <li><strong>Neighborhoods - Analysis Boundaries:</strong> Neighborhood District associated with this address</li>
-        </ul>
 
       </div>
       <!-- End page content -->
