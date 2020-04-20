@@ -4,16 +4,29 @@ const data = d3.csv("Wrangled_Data.csv", function(row) {
   row.id = row["NodeID"];
   row.parent = row["ParentID"];
 
-  console.log(row);
   return row;
 });
 
 
-root = d3.stratify()
+var root = d3.stratify()
     .id(function(row) { return row.id; })
-    .parentId(function(row) {
-      return row.parent;
-    })
+    .parentId(function(row) { return row.parent; })
     (data);
 
-console.log(root);
+
+// var final = {
+//
+//   root.count();
+//
+//   root.each(function(node) {
+//     node.data.leaves = node.value;
+//   })
+//
+//   root.sum(row => row.incidents)
+//
+//   root.each(function(node) {
+//     node.data.total = node.value;
+//   })
+//
+//   return root;
+// }
