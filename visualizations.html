@@ -83,12 +83,10 @@
       <!-- Begin page content -->
       <div class="content">
         <h1 class="title">
-          Space Filling
+          Incident Rates for Specific Call Dispositions within a Neighborhood, per Call Type Group
         </h1>
 
         <hr>
-
-
 
         <!-- Include d3.js v5 -->
         <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -102,29 +100,83 @@
         <script src="https://d3js.org/d3-hierarchy.v1.min.js"></script>
 
 
+        <h2>Wrangling</h2>
+        <p>The data used for both visualizations is the same, and was initially processed using the dataset website interface, as specified on the
+          <a href="/data.html">data page</a>.</p>
 
+        <p>Once downloaded, I wrangled the data using Google Sheets, to put it into a format that could be understood by d3.stratify. Namely, this involved
+          creating NodeId and ParentID columns. The first step was taking each leaf node (Call Type Disposition > Neighborhood > Call Type Group),
+          which were found from the rows in the original data, and assigning a parent node to each of them (Call Type Group > Neighborhood). After that,
+          each of those parent nodes created (Call Type Group > Neighborhood) needed to be given thier own parent nodes, as they were only the second level
+          in the hierarchy, so they were each assigned a parent node (Call Type Group). Then a root node was created with a null parentID for each of those
+          Call Type Group parent nodes to point to.
+        </p>
 
+        <p class="buttons"><a class="button is-medium is-danger is-light is-outlined" href="https://github.com/usf-cs360-spring2020/homework4-cbudamagunta1/blob/gh-pages/Wrangled_Data.csv">
+            <span>Link to Final Wrangled Data</span>
+          </a>
+        </p>
 
-        <h2>Incident Rates for Specific Call Dispositions within a Neighborhood, per Call Type Group</h2>
+        <hr>
+
+        <h2>Visualizations</h2>
+
         <!-- <p>Circular Dendogram with Curved Edges</p> -->
-        <p>Traditional Tree Layout with Curved Edges</p>
+        <h3>Node Link: Traditional Tree Layout with Curved Edges</h3>
+
+        <h4>Encoding</h4>
+        <p>Include how to interpret your visualization, indicating exactly how data is encoded.
+        For example, "passenger count is encoded by the length of each bar, so longer bars represent higher passenger count."</p>
+
+        <h4>Interactivity</h4>
+        <p>Include how to interact with your visualization. For example, "hover over each bar to see
+        detailed information about that airline." If you are unable to interact with your visualization, still include
+        this section and state as much.</p>
+
         <svg id="NodeLink"></svg>
         <p id="caption"><strong>Chaitrika Budamagunta</strong><br>
           Fire Department Calls for Service<br>
           <strong>Source:</strong> https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</p>
 
 
+        <h3>Space Filling: Circle Packing Layout</h3>
 
+        <h4>Encoding</h4>
+        <p>Include how to interpret your visualization, indicating exactly how data is encoded.
+        For example, "passenger count is encoded by the length of each bar, so longer bars represent higher passenger count."</p>
 
-        <h2>Incident Rates for Specific Call Dispositions within a Neighborhood, per Call Type Group</h2>
-        <p>Circle Packing Layout</p>
+        <h4>Interactivity</h4>
+        <p>Include how to interact with your visualization. For example, "hover over each bar to see
+        detailed information about that airline." If you are unable to interact with your visualization, still include
+        this section and state as much.</p>
+
         <svg id="SpaceFilling"></svg>
         <p id="caption"><strong>Chaitrika Budamagunta</strong><br>
           Fire Department Calls for Service<br>
           <strong>Source:</strong> https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</p>
 
+        <hr>
+
+        <h2>Conclusion</h2>
+        <p>Include one conclusion you can make about the data using your visualization. The conclusion
+        should ideally be something that a simple statistic could not replicate. For example, "airline X has the highest passenger
+        count over this time period" is a simple conclusion that will meet this requirement, but may not earn a plus-level letter grade.</p>
+
+        <h2>Attribution</h2>
+        <p><strong>Code Examples Used:</strong></p>
+        <ul>
+          <li><a href="https://observablehq.com/@sjengle/java-11-api-hierarchy-data-wrangling">
+              Java 11 API Hierarchy - Data Wrangling
+            </a></li>
+          <li><a href="https://observablehq.com/@sjengle/java-11-api-hierarchy-visualization">
+              Java 11 API Hierarchy - Visualization
+            </a></li>
+          <li><a href="https://gerardnico.com/viz/d3/stratify">
+              D3 - Stratify (From CSV to tree)
+            </a></li>
 
 
+        </ul>
 
 
         <!-- Include custom javascript -->
