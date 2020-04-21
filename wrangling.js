@@ -20,9 +20,10 @@ function stratify(data){
   root = stratify(data);
 
   finalData = finalCalc();
+  console.log(finalData);
 
   drawNodeLink(root, finalData);
-  drawCirclePacking(root, finalData);
+  // drawSpaceFilling(root, finalData);
 }
 
 

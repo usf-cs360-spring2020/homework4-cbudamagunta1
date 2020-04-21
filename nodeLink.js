@@ -8,36 +8,52 @@ var numberFormat = d3.format(".2~s");
 
 
 function drawNodeLink(root, finalData) {
-  let color = d3.scaleSequential([root.height, 0], d3.interpolateViridis)
+  let color = d3.scaleSequential([root.height, 0], d3.interpolateViridis);
 
   let nodeData = finalData;
-
   nodeData.sort(function(a, b) {
-    return b.height - a.height || b.count - a.count;
+    return b.height - a.height || b.value - a.value;
   });
 
 
-  let layout = d3.cluster().size([2 * Math.PI, (diameter / 2) - pad]);
+  let layout = d3.tree().size([width - 2 * pad, height - 2 * pad]);
+
   layout(nodeData);
 
-
-  nodeData.each(function(node) {
-    node.theta = node.x;
-    node.radial = node.y;
-
-    var point = toCartesian(node.radial, node.theta);
-    node.x = point.x;
-    node.y = point.y;
-  });
-
-  let svg = d3.select("body").select("svg#NodeLink");
+  let svg = d3.select("body").select("svg#NodeLink")
+      .style("width", width)
+      .style("height", height);
 
   let plot = svg.append("g")
     .attr("id", "plot")
-    .attr("transform", translate(width / 2, height / 2));
+    .attr("transform", translate(pad, pad));
 
-  drawLinks(plot.append("g"), nodeData.links(), radialLine);
+  drawLinks(plot.append("g"), nodeData.links(), curvedLine);
   drawNodes(plot.append("g"), nodeData.descendants(), true, color);
+
+
+  // let layout = d3.cluster().size([2 * Math.PI, (diameter / 2) - pad]);
+  // layout(nodeData);
+  //
+  //
+  // nodeData.each(function(node) {
+  //   node.theta = node.x;
+  //   node.radial = node.y;
+  //
+  //   var point = toCartesian(node.radial, node.theta);
+  //   node.x = point.x;
+  //   node.y = point.y;
+  // });
+  //
+  // let svg = d3.select("body").select("svg#NodeLink");
+  //
+  // let plot = svg.append("g")
+  //   .attr("id", "plot")
+  //   .attr("transform", translate(width / 2, height / 2));
+  //
+  // drawLinks(plot.append("g"), nodeData.links(), radialLine);
+  // drawNodes(plot.append("g"), nodeData.descendants(), true, color);
+
 
   drawLegend(color, svg);
 }
@@ -59,6 +75,13 @@ function radialLine() {
       .radius(d => d.radial);
 
     return generator;
+}
+function curvedLine() {
+  let generator = d3.linkVertical()
+    .x(d => d.x)
+    .y(d => d.y);
+
+  return generator;
 }
 
 function toCartesian(r, theta) {

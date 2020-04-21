@@ -5,7 +5,7 @@ var diameter = 500;
 var pad = 14;
 
 
-function drawCirclePacking(root, finalData) {
+function drawSpaceFilling(root, finalData) {
   let circleData = finalData;
 
   circleData.sort(function(a, b) {
