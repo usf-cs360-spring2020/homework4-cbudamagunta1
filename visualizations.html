@@ -55,7 +55,7 @@
             <span class="icon"><i class="fas fa-table"></i></span>
             <span>Data</span>
           </a>
-          <a class="navbar-item" href="visualizations.html" title="Visualizations">
+          <a class="navbar-item is-active" href="visualizations.html" title="Visualizations">
             <span class="icon"><i class="fas fa-chart-area"></i></span>
             <span>Visualizations</span>
           </a>
@@ -68,7 +68,7 @@
             <span class="icon"><i class="fas fa-tasks"></i></span>
             <span>Grade</span>
           </a>
-          <a class="navbar-item is-active" href="about.html" title="About">
+          <a class="navbar-item" href="about.html" title="About">
             <span class="icon"><i class="fas fa-info-circle"></i></span>
             <span>About</span>
           </a>
@@ -82,43 +82,49 @@
     <div class="container">
       <!-- Begin page content -->
       <div class="content">
-        <h1 class="title"id="about">
-          About
+        <h1 class="title">
+          Space Filling
         </h1>
 
         <hr>
 
-        <article class="media">
-          <figure class="media-left">
-            <p class="image is-128x128"><img class="is-rounded" src="chaitrika.jpeg"></p>
-          </figure>
+        <p>Circle Packing Layout</p>
 
-          <div class="media-content">
-            <div class="content">
-              <p>
-                <strong>Chaitrika Budamagunta</strong><br/>
-                CS Major, <a href="https://www.usfca.edu/">University of San Francisco</a><br/>
-                <em>Expected Graduation: May 2020</em><br/>
-                <i class="fas fa-envelope"></i> <a href="mailto:username@dons.usfca.edu">cbudamagunta@dons.usfca.edu</a>
-              </p>
+        <!-- Include d3.js v5 -->
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <!-- Include d3.js modules -->
+        <script src="https://d3js.org/d3-array.v2.min.js"></script>
+        <!-- include d3-legend: https://d3-legend.susielu.com/ -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js" integrity="sha256-qo76Vs9B6JAALbrTn+PcN1r09hbNLd2M78V19glOMeU=" crossorigin="anonymous"></script>
 
-              <p>
-                My name is Chay, I am a computer science major and a theater minor, and I love finding ways to blend tech and art.
-              </p>
+        <script src="https://d3js.org/d3-path.v1.min.js"></script>
+        <script src="https://d3js.org/d3-shape.v1.min.js"></script>
+        <script src="https://d3js.org/d3-hierarchy.v1.min.js"></script>
 
-              <div class="heading">Skills</div>
-              <div class="tags">
-                <span class="tag">Python</span>
-                <span class="tag">C</span>
-                <span class="tag">Java</span>
-                <span class="tag">JavaScript</span>
-                <span class="tag">HTML</span>
-                <span class="tag">CSS</span>
-              </div>
-            </div>
-          </div>
-        </article>
-        <!-- End profile box -->
+
+        <h2>Incident Rates for Specific Call Dispositions within a Neighborhood, per Call Type Group</h2>
+        <svg id="SpaceFilling"></svg>
+        <p id="caption"><strong>Chaitrika Budamagunta</strong><br>
+          Fire Department Calls for Service<br>
+          <strong>Source:</strong> https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</p>
+
+
+
+        <p>Circular Dendogram with Curved Edges</p>
+
+
+        <h2>Incident Rates for Specific Call Dispositions within a Neighborhood, per Call Type Group</h2>
+        <svg id="NodeLink"></svg>
+        <p id="caption"><strong>Chaitrika Budamagunta</strong><br>
+          Fire Department Calls for Service<br>
+          <strong>Source:</strong> https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</p>
+
+
+
+        <!-- Include custom javascript -->
+        <script src="wrangling.js"></script>
+        <script src="nodeLink.js"></script>
+        <script src="spaceFilling.js"></script>
 
       </div>
       <!-- End page content -->
