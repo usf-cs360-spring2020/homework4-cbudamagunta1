@@ -101,19 +101,21 @@
              <tr>
                <td>D</td>
                <td><i class="has-text-success fas fa-check-circle"></i></td>
-               <td>Successfully wrangle the data into a hierarchical format that can be interpreted by d3.stratify().
+               <td>Successfully wrangle the data into a hierarchical format that can be interpreted by d3.stratify().<br>
                  The hierarchy has height 3 and each leaf node has an attribute (Incident Counts).
                </td>
              </tr>
 
                <td>C</td>
-               <!-- <td><i class="has-text-success fas fa-check-circle"></i></td> -->
-               <td><i class="has-text-danger fas fa-times-circle"></i></td>
-               <td>Complete the D-level functionality and implement a node link visualization using the d3.cluster() or d3.tree()
-                 layout. You may use any Coordinate system (Cartesian or polar) and any edge style (straight or curved).<br>
+               <td><i class="has-text-success fas fa-check-circle"></i></td>
+               <td>Complete D-level functionality<br>
+                   Implement a node link visualization using the d3.cluster() layout, Cartesian coordinate system, and
+                   curved edges<br><br>
 
-                 The node attribute must be encoded somehow (i.e. using color, size, shape, etc.). Nodes must have a minimum
-                 details-on-demand interactivity showing the node label.
+                   The node attributes are encoded by color (Dark pink = fewer incidents to Dark green = more incidents).<br><br>
+
+                   All nodes have details-on-demand interactivity showing the name and incident count for
+                   that node. There is also highlighting interactivity tracing the path back to the root.
                </td>
              </tr>
 

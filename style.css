@@ -80,11 +80,6 @@ th {
 
 
 
-
-
-
-
-
 .node {
   stroke: silver;
   stroke-width: 1px;
@@ -97,7 +92,8 @@ th {
 }
 
 .selected {
-  stroke: red !important;
+  stroke: blue !important;
+  stroke-width: 2px;
 }
 
 text#tooltip {

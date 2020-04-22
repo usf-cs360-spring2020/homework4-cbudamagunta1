@@ -1,3 +1,5 @@
+
+/* SETUP */
 var width = 1000;
 var height = 500;
 var r = 5;
@@ -7,8 +9,11 @@ var pad = 14;
 var numberFormat = d3.format(".2~s");
 
 
+/* DRAW TREE */
 function drawNodeLink(root, finalData) {
-  let color = d3.scaleSequential([root.value, 0], d3.interpolateViridis);
+  var color = d3.scaleSequential(d3.interpolatePiYG);
+  color.domain([0, root.value]);
+
 
   let nodeData = finalData;
   nodeData.sort(function(a, b) {
@@ -32,54 +37,73 @@ function drawNodeLink(root, finalData) {
   drawLinks(plot.append("g"), nodeData.links());
   drawNodes(plot.append("g"), nodeData.descendants(), true, color);
 
-  drawLegend(color, svg);
+  drawLegend(color, svg, root);
 }
 
 
-function drawLegend(color, svg) {
-  svg.append("g").call(
-    d3.legendColor()
-      .shapeWidth(30)
-      .cells(5)
-      .orient("horizontal")
-      .scale(color));
+/* DRAW LEGEND */
+function drawLegend(color, svg, root) {
+
+    const legendWidth = 250;
+    const legendHeight = 20;
+
+    const colorGroup = svg.append('g').attr('id', 'color-legend');
+    colorGroup.attr('transform', translate(10, 10));
+
+    const title = colorGroup.append('text')
+      .attr('class', 'legend-title')
+      .attr('id', 'legend-title')
+      .text('Total Incident Counts');
+
+    title.attr('dy', 12);
+
+    const colorbox = colorGroup.append('rect')
+      .attr('x', 0)
+      .attr('y', 18)
+      .attr('width', legendWidth)
+      .attr('height', legendHeight);
+
+    const colorDomain = [d3.min(color.domain()), d3.max(color.domain())];
+    let percent = d3.scaleLinear()
+      .range([0, 100])
+      .domain(colorDomain);
+
+    const defs = svg.append('defs');
+
+    defs.append('linearGradient')
+      .attr('id', 'gradient')
+      .selectAll('stop')
+      .data(color.ticks())
+      .enter()
+      .append('stop')
+      .attr('offset', d => percent(d) + '%')
+      .attr('stop-color', d => color(d));
+
+    colorbox.attr('fill', 'url(#gradient)');
+
+    let legend = d3.scaleLinear()
+      .domain(colorDomain)
+      .range([0, legendWidth]);
+
+    const legendAxis = d3.axisBottom(legend)
+      .tickValues(color.domain())
+      .tickSize(legendHeight)
+      .tickSizeOuter(0);
+
+    const axisGroup = colorGroup.append('g')
+      .attr('id', 'color-axis')
+      .attr('transform', translate(0, 12 + 6))
+      .call(legendAxis);
 }
 
 
-function radialLine() {
-    let generator = d3.linkRadial()
-      .angle(d => d.theta + Math.PI / 2)
-      .radius(d => d.radial);
-
-    return generator;
-}
-function curvedLine() {
-  let generator = d3.linkVertical()
-    .x(d => d.x)
-    .y(d => d.y);
-
-  return generator;
-}
-
-function toCartesian(r, theta) {
-  return {
-    x: r * Math.cos(theta),
-    y: r * Math.sin(theta)
-  };
-}
-
-
-
-
-
-
+/* DRAW EDGES */
 function drawLinks(g, links) {
 
   /* Curved Line Generator */
   var generator = d3.linkVertical()
     .x(d => d.x)
     .y(d => d.y);
-
 
   let paths = g.selectAll('path')
     .data(links)
@@ -89,6 +113,7 @@ function drawLinks(g, links) {
     .attr('class', 'link');
 }
 
+/* DRAW THE NODES */
 function drawNodes(g, nodes, raise, color) {
   let circles = g.selectAll('circle')
     .data(nodes, node => node.data.id)
@@ -97,7 +122,7 @@ function drawNodes(g, nodes, raise, color) {
       .attr('r', d => d.r ? d.r : r)
       .attr('cx', d => d.x)
       .attr('cy', d => d.y)
-      .attr('id', d => d.data.id)
+      .attr('id', d => d.data.id.replace(" ", "").replace(".", ""))
       .attr('class', 'node')
       .style('fill', d => color(d.value));
 
@@ -106,9 +131,7 @@ function drawNodes(g, nodes, raise, color) {
 
 
 
-
-
-
+/* HIGHLIGHTING AND MOUSEOVER EVENTS */
 function setupEvents(g, selection, raise) {
   selection.on('mouseover.highlight', function(d) {
     // https://github.com/d3/d3-hierarchy#node_path
@@ -135,15 +158,29 @@ function setupEvents(g, selection, raise) {
   // show tooltip text on mouseover (hover)
   selection.on('mouseover.tooltip', function(d) {
     showTooltip(g, d3.select(this));
+
+    // let path = d3.select(this).datum().path(selection.data()[0]);
+    //
+    // let update = selection.data(path, node => node.data.id);
+    // console.log(update);
+    // showTooltip(g, update);
+
+    // let update = selection.data(path, function(node) {
+    //     let id = d.data.id.replace(" ", "").replace(".", "");
+    //     showTooltip(g, selection.select(id));
+    //  });
+
   });
 
   // remove tooltip text on mouseout
   selection.on('mouseout.tooltip', function(d) {
-    g.select("#tooltip").remove();
+    g.selectAll("#tooltip").remove();
   });
 }
 
+/* TOOLTIP */
 function showTooltip(g, node) {
+
   let gbox = g.node().getBBox();     // get bounding box of group BEFORE adding text
   let nbox = node.node().getBBox();  // get bounding box of node
 
@@ -193,6 +230,8 @@ function showTooltip(g, node) {
   }
 }
 
+
+/* HELPER FUNCTION */
 function translate(x, y) {
     return 'translate(' + String(x) + ',' + String(y) + ')';
 }
