@@ -32,7 +32,60 @@ function drawSpaceFilling(root, finalData) {
     .attr("id", "plot")
     .attr("transform", translate(pad + 60, pad - 10));
 
-  drawNodes(circlePlot.append("g"), circleData.descendants(), false, color);
+  drawCircleNodes(circlePlot.append("g"), circleData.descendants(), false, color);
 
   drawLegend(color, circleSvg, root);
+}
+
+
+/* DRAW THE NODES */
+function drawCircleNodes(g, nodes, raise, color) {
+  let circles = g.selectAll('circle')
+    .data(nodes, node => node.data.id)
+    .enter()
+    .append('circle')
+      .attr('r', d => d.r ? d.r : r)
+      .attr('cx', d => d.x)
+      .attr('cy', d => d.y)
+      .attr('id', d => d.data.id.replace(" ", "").replace(".", ""))
+      .attr('class', 'node')
+      .style('fill', d => color(d.value));
+
+  setupCircleEvents(g, circles, raise, color);
+}
+
+
+/* HIGHLIGHTING AND MOUSEOVER EVENTS */
+function setupCircleEvents(g, selection, raise, color) {
+  selection.on('mouseover.highlight', function(d) {
+    // https://github.com/d3/d3-hierarchy#node_path
+    // returns path from d3.select(this) node to selection.data()[0] root node
+    let path = d3.select(this).datum().path(selection.data()[0]);
+
+    // select all of the nodes on the shortest path
+    let update = selection.data(path, node => node.data.id);
+
+    // highlight the selected nodes
+    update.classed('selected', true);
+
+    if (raise) {
+      update.raise();
+    }
+  });
+
+  selection.on('mouseout.highlight', function(d) {
+    let path = d3.select(this).datum().path(selection.data()[0]);
+    let update = selection.data(path, node => node.data.id);
+    update.classed('selected', false);
+  });
+
+  // show tooltip text on mouseover (hover)
+  selection.on('mouseover.tooltip', function(d) {
+    showTooltip(g, d3.select(this));
+  });
+
+  // remove tooltip text on mouseout
+  selection.on('mouseout.tooltip', function(d) {
+    g.selectAll("#tooltip").remove();
+  });
 }

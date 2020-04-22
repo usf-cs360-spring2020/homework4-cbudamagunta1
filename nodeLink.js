@@ -127,13 +127,13 @@ function drawNodes(g, nodes, raise, color) {
       .attr('class', 'node')
       .style('fill', d => color(d.value));
 
-  setupEvents(g, circles, raise);
+  setupEvents(g, circles, raise, color);
 }
 
 
 
 /* HIGHLIGHTING AND MOUSEOVER EVENTS */
-function setupEvents(g, selection, raise) {
+function setupEvents(g, selection, raise, color) {
   selection.on('mouseover.highlight', function(d) {
     // https://github.com/d3/d3-hierarchy#node_path
     // returns path from d3.select(this) node to selection.data()[0] root node
@@ -160,22 +160,17 @@ function setupEvents(g, selection, raise) {
   selection.on('mouseover.tooltip', function(d) {
     showTooltip(g, d3.select(this));
 
-    // let path = d3.select(this).datum().path(selection.data()[0]);
-    //
-    // let update = selection.data(path, node => node.data.id);
-    // console.log(update);
-    // showTooltip(g, update);
-
-    // let update = selection.data(path, function(node) {
-    //     let id = d.data.id.replace(" ", "").replace(".", "");
-    //     showTooltip(g, selection.select(id));
-    //  });
-
+    selection.filter(e => (d.data.id.replace(d.data.parent, "").replace(".", "") !== e.data.id.replace(e.data.parent, "").replace(".", "")))
+      .transition()
+      .style("fill", "#bbbbbb");
   });
 
   // remove tooltip text on mouseout
   selection.on('mouseout.tooltip', function(d) {
     g.selectAll("#tooltip").remove();
+
+    selection.transition()
+      .style('fill', d => color(d.value));
   });
 }
 
