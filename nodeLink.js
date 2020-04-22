@@ -17,7 +17,7 @@ function drawNodeLink(root, finalData) {
 
   let nodeData = finalData;
   nodeData.sort(function(a, b) {
-    return b.height - a.height || b.count - a.count;
+    return b.height - a.height || b.value - a.value;
   });
 
   let layout = d3.cluster()
