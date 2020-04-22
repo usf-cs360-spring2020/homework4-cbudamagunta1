@@ -1,15 +1,15 @@
-var width = 960;
-var height = 500;
-var r = 5;
-var diameter = 500;
-var pad = 14;
+// var width = 1000;
+// var height = 500;
+// var r = 5;
+// var diameter = 500;
+// var pad = 14;
 
 
 function drawSpaceFilling(root, finalData) {
   let circleData = finalData;
 
   circleData.sort(function(a, b) {
-    return b.height - a.height || b.count - a.count;
+    return b.height - a.height || b.value - a.value;
   });
 
   // make sure value is set

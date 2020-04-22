@@ -1,4 +1,4 @@
-var width = 960;
+var width = 1000;
 var height = 500;
 var r = 5;
 var diameter = 500;
@@ -8,17 +8,17 @@ var numberFormat = d3.format(".2~s");
 
 
 function drawNodeLink(root, finalData) {
-  let color = d3.scaleSequential([root.height, 0], d3.interpolateViridis);
+  let color = d3.scaleSequential([root.value, 0], d3.interpolateViridis);
 
   let nodeData = finalData;
   nodeData.sort(function(a, b) {
     return b.height - a.height || b.value - a.value;
   });
 
-
-  let layout = d3.tree().size([width - 2 * pad, height - 2 * pad]);
-
+  let layout = d3.cluster()
+      .size([width - 2 * pad, height - 2 * pad]);
   layout(nodeData);
+
 
   let svg = d3.select("body").select("svg#NodeLink")
       .style("width", width)
@@ -28,32 +28,9 @@ function drawNodeLink(root, finalData) {
     .attr("id", "plot")
     .attr("transform", translate(pad, pad));
 
-  drawLinks(plot.append("g"), nodeData.links(), curvedLine);
+
+  drawLinks(plot.append("g"), nodeData.links());
   drawNodes(plot.append("g"), nodeData.descendants(), true, color);
-
-
-  // let layout = d3.cluster().size([2 * Math.PI, (diameter / 2) - pad]);
-  // layout(nodeData);
-  //
-  //
-  // nodeData.each(function(node) {
-  //   node.theta = node.x;
-  //   node.radial = node.y;
-  //
-  //   var point = toCartesian(node.radial, node.theta);
-  //   node.x = point.x;
-  //   node.y = point.y;
-  // });
-  //
-  // let svg = d3.select("body").select("svg#NodeLink");
-  //
-  // let plot = svg.append("g")
-  //   .attr("id", "plot")
-  //   .attr("transform", translate(width / 2, height / 2));
-  //
-  // drawLinks(plot.append("g"), nodeData.links(), radialLine);
-  // drawNodes(plot.append("g"), nodeData.descendants(), true, color);
-
 
   drawLegend(color, svg);
 }
@@ -63,7 +40,7 @@ function drawLegend(color, svg) {
   svg.append("g").call(
     d3.legendColor()
       .shapeWidth(30)
-      .cells(root.height + 1)
+      .cells(5)
       .orient("horizontal")
       .scale(color));
 }
@@ -91,7 +68,19 @@ function toCartesian(r, theta) {
   };
 }
 
-function drawLinks(g, links, generator) {
+
+
+
+
+
+function drawLinks(g, links) {
+
+  /* Curved Line Generator */
+  var generator = d3.linkVertical()
+    .x(d => d.x)
+    .y(d => d.y);
+
+
   let paths = g.selectAll('path')
     .data(links)
     .enter()
@@ -102,18 +91,23 @@ function drawLinks(g, links, generator) {
 
 function drawNodes(g, nodes, raise, color) {
   let circles = g.selectAll('circle')
-    .data(nodes, node => node.data.name)
+    .data(nodes, node => node.data.id)
     .enter()
     .append('circle')
       .attr('r', d => d.r ? d.r : r)
       .attr('cx', d => d.x)
       .attr('cy', d => d.y)
-      .attr('id', d => d.data.name)
+      .attr('id', d => d.data.id)
       .attr('class', 'node')
-      .style('fill', d => color(d.depth));
+      .style('fill', d => color(d.value));
 
   setupEvents(g, circles, raise);
 }
+
+
+
+
+
 
 function setupEvents(g, selection, raise) {
   selection.on('mouseover.highlight', function(d) {
@@ -122,7 +116,7 @@ function setupEvents(g, selection, raise) {
     let path = d3.select(this).datum().path(selection.data()[0]);
 
     // select all of the nodes on the shortest path
-    let update = selection.data(path, node => node.data.name);
+    let update = selection.data(path, node => node.data.id);
 
     // highlight the selected nodes
     update.classed('selected', true);
@@ -134,7 +128,7 @@ function setupEvents(g, selection, raise) {
 
   selection.on('mouseout.highlight', function(d) {
     let path = d3.select(this).datum().path(selection.data()[0]);
-    let update = selection.data(path, node => node.data.name);
+    let update = selection.data(path, node => node.data.id);
     update.classed('selected', false);
   });
 
@@ -165,12 +159,10 @@ function showTooltip(g, node) {
   let datum = node.datum();
 
   // remove "java.base." from the node name
-  // let name = datum.data.name.replace("java\.base\.", "");
+  let name = datum.data.id.replace(datum.data.parent, "").replace(".", "");
 
   // use node name and total size as tooltip text
-  // let text = `${name} (${numberFormat(datum.data.total)}, ${numberFormat(datum.data.leaves)}n)`;
-
-  let text = `${numberFormat(datum.data.total)}`
+  let text = `${name}: ${numberFormat(datum.data.total)}`
 
   // create tooltip
   let tooltip = g.append('text')
@@ -180,10 +172,6 @@ function showTooltip(g, node) {
     .attr('dy', -dy - 4) // shift upward above circle
     .attr('text-anchor', 'middle') // anchor in the middle
     .attr('id', 'tooltip');
-
-  // it is possible the tooltip will fall off the edge of the
-  // plot area. we can detect when this happens, and set the
-  // text anchor appropriately
 
   // get bounding box for the text
   let tbox = tooltip.node().getBBox();

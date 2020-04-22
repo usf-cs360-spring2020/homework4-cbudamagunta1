@@ -105,16 +105,52 @@
           <a href="/data.html">data page</a>.</p>
 
         <p>Once downloaded, I wrangled the data using Google Sheets, to put it into a format that could be understood by d3.stratify. Namely, this involved
-          creating NodeId and ParentID columns. The first step was taking each leaf node (Call Type Disposition > Neighborhood > Call Type Group),
-          which were found from the rows in the original data, and assigning a parent node to each of them (Call Type Group > Neighborhood). After that,
-          each of those parent nodes created (Call Type Group > Neighborhood) needed to be given thier own parent nodes, as they were only the second level
-          in the hierarchy, so they were each assigned a parent node (Call Type Group). Then a root node was created with a null parentID for each of those
-          Call Type Group parent nodes to point to.
+          creating <strong>NodeId</strong> and <strong>ParentID</strong> columns. The first step was taking the leaf nodes
+          <strong>(Call Type Disposition > Neighborhood > Call Type Group)</strong>,
+          which were found from the rows in the original data, and assigning a parent node to each of them <strong>(Call Type Group > Neighborhood)</strong>.
+          After that, each of those created parent nodes <strong>(Call Type Group > Neighborhood)</strong> needed to be given their own parent nodes,
+          as they were only the second level
+          in the hierarchy, so they were each assigned a parent node <strong>(Call Type Group)</strong>. Then a root node was created with a
+          <strong>null parentID</strong> for each of those Call Type Group nodes to point to.
         </p>
 
         <p class="buttons"><a class="button is-medium is-danger is-light is-outlined" href="https://github.com/usf-cs360-spring2020/homework4-cbudamagunta1/blob/gh-pages/Wrangled_Data.csv">
             <span>Link to Final Wrangled Data</span>
           </a>
+        </p>
+
+        <p>Once loaded into d3, the data needed further filtering to make the visualization more readable.</p>
+
+        <p>The Call Type Group category was filtered to <strong>only include the top four highest incident options</strong>:
+          <ul>
+            <li><strong>Traffic Collision</strong></li>
+            <li><strong>Medical Incident</strong></li>
+            <li><strong>Alarms</strong></li>
+            <li><strong>Structure Fire</strong></li>
+          </ul>
+        </p>
+
+        <p>For the Call Final Disposition category, the following options were <strong>filtered out</strong>, since they sort of represented "unsuccessful" calls:
+          <ul>
+            <li><strong>Unable to Locate</strong></li>
+            <li><strong>Other</strong></li>
+            <li><strong>No Merit</strong></li>
+            <li><strong>Duplicate</strong></li>
+            <li><strong>Gone on Arrival</strong></li>
+          </ul>
+        </p>
+
+        <p>The Neighborhood category was also restricted to <strong>only include the top four neighborhoods
+          with the most incidents per Call Type Group</strong>. There were many overlapping neighborhoods in this set between each call type group,
+          so the remaining neighborhoods were:
+          <ul>
+            <li><strong>Bayview Hunters Point</strong></li>
+            <li><strong>Financial District/South Beach</strong></li>
+            <li><strong>Mission</strong></li>
+            <li><strong>Nob Hill</strong></li>
+            <li><strong>South of Market</strong></li>
+            <li><strong>Tenderloin</strong></li>
+          </ul>
         </p>
 
         <hr>
@@ -125,13 +161,13 @@
         <h3>Node Link: Traditional Tree Layout with Curved Edges</h3>
 
         <h4>Encoding</h4>
-        <p>Include how to interpret your visualization, indicating exactly how data is encoded.
-        For example, "passenger count is encoded by the length of each bar, so longer bars represent higher passenger count."</p>
+        <p>The topmost node is the <strong>root node</strong>, the second level represents the <strong>Call Type Groups</strong>, the third level
+          is the <strong>Neighborhoods</strong>,
+          and the bottom level is the <strong>Call Final Dispositions</strong>. The color encodes the <strong>total incident count</strong>
+          of a particular node.</p>
 
         <h4>Interactivity</h4>
-        <p>Include how to interact with your visualization. For example, "hover over each bar to see
-        detailed information about that airline." If you are unable to interact with your visualization, still include
-        this section and state as much.</p>
+        <p>Hover over any node to see the name and incident count, and highlight the path up to the root node.</p>
 
         <svg id="NodeLink"></svg>
         <p id="caption"><strong>Chaitrika Budamagunta</strong><br>
