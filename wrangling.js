@@ -76,10 +76,9 @@ function stratify(data){
   root = stratify(data);
 
   finalData = finalCalc();
-  console.log(finalData);
 
   drawNodeLink(root, finalData);
-  // drawSpaceFilling(root, finalData);
+  drawSpaceFilling(root, finalData);
 }
 
 

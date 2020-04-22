@@ -1,19 +1,22 @@
-// var width = 1000;
-// var height = 500;
-// var r = 5;
-// var diameter = 500;
-// var pad = 14;
+
+/* SETUP */
+var width = 960;
+var height = 500;
+var r = 5;
+var diameter = 500;
+var pad = 14;
 
 
+/* DRAW CIRCLE PACKING */
 function drawSpaceFilling(root, finalData) {
+  var color = d3.scaleSequential(d3.interpolatePiYG);
+  color.domain([0, root.value]);
+
   let circleData = finalData;
 
   circleData.sort(function(a, b) {
     return b.height - a.height || b.value - a.value;
   });
-
-  // make sure value is set
-  circleData.sum(d => d.size)
 
   let layout = d3.pack()
     .padding(r)
@@ -22,14 +25,14 @@ function drawSpaceFilling(root, finalData) {
   layout(circleData);
 
   let circleSvg = d3.select("body").select("svg#SpaceFilling")
-      .style("width", diameter)
-      .style("height", diameter);
+      .style("width", width)
+      .style("height", height);
 
-  let plot = circleSvg.append("g")
+  let circlePlot = circleSvg.append("g")
     .attr("id", "plot")
-    .attr("transform", translate(pad, pad));
+    .attr("transform", translate(pad + 60, pad - 10));
 
-  drawNodes(plot.append("g"), circleData.descendants(), false);
+  drawNodes(circlePlot.append("g"), circleData.descendants(), false, color);
 
-  return circleSvg.node();
+  drawLegend(color, circleSvg, root);
 }

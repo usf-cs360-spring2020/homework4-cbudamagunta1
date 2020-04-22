@@ -178,13 +178,12 @@
         <h3>Space Filling: Circle Packing Layout</h3>
 
         <h4>Encoding</h4>
-        <p>Include how to interpret your visualization, indicating exactly how data is encoded.
-        For example, "passenger count is encoded by the length of each bar, so longer bars represent higher passenger count."</p>
+        <p>The outermost circle is the <strong>root node</strong>, and every subsequent node's children are enclosed within that node's circle.
+          The diverging color scheme encodes the <strong>total incident count</strong>
+          of a particular node, with darker green representing the highest counts and dark pink representing the lowest counts.</p>
 
         <h4>Interactivity</h4>
-        <p>Include how to interact with your visualization. For example, "hover over each bar to see
-        detailed information about that airline." If you are unable to interact with your visualization, still include
-        this section and state as much.</p>
+        <p>Hover over any circle to see the name and incident count, and highlight the circles up to the root node.</p>
 
         <svg id="SpaceFilling"></svg>
         <p id="caption"><strong>Chaitrika Budamagunta</strong><br>

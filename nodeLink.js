@@ -1,6 +1,6 @@
 
 /* SETUP */
-var width = 1000;
+var width = 960;
 var height = 500;
 var r = 5;
 var diameter = 500;
@@ -17,7 +17,7 @@ function drawNodeLink(root, finalData) {
 
   let nodeData = finalData;
   nodeData.sort(function(a, b) {
-    return b.height - a.height || b.value - a.value;
+    return b.height - a.height || b.count - a.count;
   });
 
   let layout = d3.cluster()
@@ -48,7 +48,7 @@ function drawLegend(color, svg, root) {
     const legendHeight = 20;
 
     const colorGroup = svg.append('g').attr('id', 'color-legend');
-    colorGroup.attr('transform', translate(10, 10));
+    colorGroup.attr('transform', translate(650, 10));
 
     const title = colorGroup.append('text')
       .attr('class', 'legend-title')
@@ -56,6 +56,7 @@ function drawLegend(color, svg, root) {
       .text('Total Incident Counts');
 
     title.attr('dy', 12);
+    title.attr('dx', 105);
 
     const colorbox = colorGroup.append('rect')
       .attr('x', 0)
